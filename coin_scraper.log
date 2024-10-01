@@ -1,0 +1,1262 @@
+2024-10-01 20:17:48,419 - INFO - Starting coin scraping process
+2024-10-01 20:18:06,069 - INFO - Slowly scrolled to the bottom of the page
+2024-10-01 20:18:17,613 - INFO - Slowly scrolled to the top of the page
+2024-10-01 20:18:17,630 - INFO - Loading data from row 1 to row 200
+2024-10-01 20:18:18,277 - INFO - Scrolled to row 1
+2024-10-01 20:18:28,865 - INFO - Scrolled to row 200
+2024-10-01 20:18:42,158 - INFO - Scrolled to row 1
+2024-10-01 20:18:53,427 - INFO - Scrolled to row 200
+2024-10-01 20:18:55,543 - INFO - Read: Rank: 1, Name: Bitcoin
+2024-10-01 20:18:55,609 - INFO - Read: Rank: 2, Name: Ethereum
+2024-10-01 20:18:55,678 - INFO - Read: Rank: 3, Name: Tether
+2024-10-01 20:18:55,754 - INFO - Read: Rank: 4, Name: Binance Coin
+2024-10-01 20:18:55,832 - INFO - Read: Rank: 5, Name: Cardano
+2024-10-01 20:18:55,923 - INFO - Read: Rank: 6, Name: Dogecoin
+2024-10-01 20:18:56,014 - INFO - Read: Rank: 7, Name: XRP
+2024-10-01 20:18:56,103 - INFO - Read: Rank: 8, Name: USD Coin
+2024-10-01 20:18:56,190 - INFO - Read: Rank: 9, Name: Polkadot
+2024-10-01 20:18:56,269 - INFO - Read: Rank: 10, Name: Binance USD
+2024-10-01 20:18:56,344 - INFO - Read: Rank: 11, Name: Uniswap
+2024-10-01 20:18:56,420 - INFO - Read: Rank: 12, Name: Bitcoin Cash
+2024-10-01 20:18:56,512 - INFO - Read: Rank: 13, Name: Litecoin
+2024-10-01 20:18:56,593 - INFO - Read: Rank: 14, Name: Solana
+2024-10-01 20:18:56,670 - INFO - Read: Rank: 15, Name: Chainlink
+2024-10-01 20:18:56,746 - INFO - Read: Rank: 16, Name: Polygon
+2024-10-01 20:18:56,820 - INFO - Read: Rank: 17, Name: THETA
+2024-10-01 20:18:56,896 - INFO - Read: Rank: 18, Name: Wrapped Bitcoin
+2024-10-01 20:18:56,971 - INFO - Read: Rank: 19, Name: Stellar
+2024-10-01 20:18:57,044 - INFO - Read: Rank: 20, Name: Internet Computer
+2024-10-01 20:18:57,113 - INFO - Read: Rank: 21, Name: Dai
+2024-10-01 20:18:57,184 - INFO - Read: Rank: 22, Name: VeChain
+2024-10-01 20:18:57,260 - INFO - Read: Rank: 23, Name: Ethereum Classic
+2024-10-01 20:18:57,328 - INFO - Read: Rank: 24, Name: TRON
+2024-10-01 20:18:57,401 - INFO - Read: Rank: 25, Name: Filecoin
+2024-10-01 20:18:57,485 - INFO - Read: Rank: 26, Name: Monero
+2024-10-01 20:18:57,556 - INFO - Read: Rank: 27, Name: EOS
+2024-10-01 20:18:57,624 - INFO - Read: Rank: 28, Name: SHIBA INU
+2024-10-01 20:18:57,698 - INFO - Read: Rank: 29, Name: Crypto.com Coin
+2024-10-01 20:18:57,773 - INFO - Read: Rank: 30, Name: Amp
+2024-10-01 20:18:57,849 - INFO - Read: Rank: 31, Name: Aave
+2024-10-01 20:18:57,925 - INFO - Read: Rank: 32, Name: Algorand
+2024-10-01 20:18:57,995 - INFO - Read: Rank: 33, Name: Bitcoin BEP2
+2024-10-01 20:18:58,071 - INFO - Read: Rank: 34, Name: Klaytn
+2024-10-01 20:18:58,141 - INFO - Read: Rank: 35, Name: Bitcoin SV
+2024-10-01 20:18:58,212 - INFO - Read: Rank: 36, Name: PancakeSwap
+2024-10-01 20:18:58,288 - INFO - Read: Rank: 37, Name: FTX Token
+2024-10-01 20:18:58,369 - INFO - Read: Rank: 38, Name: Terra
+2024-10-01 20:18:58,445 - INFO - Read: Rank: 39, Name: Theta Fuel
+2024-10-01 20:18:58,537 - INFO - Read: Rank: 40, Name: Neo
+2024-10-01 20:18:58,631 - INFO - Read: Rank: 41, Name: Tezos
+2024-10-01 20:18:58,703 - INFO - Read: Rank: 42, Name: IOTA
+2024-10-01 20:18:58,777 - INFO - Read: Rank: 43, Name: Cosmos
+2024-10-01 20:18:58,846 - INFO - Read: Rank: 44, Name: Maker
+2024-10-01 20:18:58,915 - INFO - Read: Rank: 45, Name: UNUS SED LEO
+2024-10-01 20:18:58,985 - INFO - Read: Rank: 46, Name: TerraUSD
+2024-10-01 20:18:59,055 - INFO - Read: Rank: 47, Name: Avalanche
+2024-10-01 20:18:59,125 - INFO - Read: Rank: 48, Name: Huobi Token
+2024-10-01 20:18:59,195 - INFO - Read: Rank: 49, Name: BitTorrent
+2024-10-01 20:18:59,262 - INFO - Read: Rank: 50, Name: Decred
+2024-10-01 20:18:59,333 - INFO - Read: Rank: 51, Name: The Graph
+2024-10-01 20:18:59,415 - INFO - Read: Rank: 52, Name: Hedera Hashgraph
+2024-10-01 20:18:59,487 - INFO - Read: Rank: 53, Name: Kusama
+2024-10-01 20:18:59,555 - INFO - Read: Rank: 54, Name: Waves
+2024-10-01 20:18:59,642 - INFO - Read: Rank: 55, Name: THORChain
+2024-10-01 20:18:59,715 - INFO - Read: Rank: 56, Name: TrueUSD
+2024-10-01 20:18:59,782 - INFO - Read: Rank: 57, Name: Chiliz
+2024-10-01 20:18:59,850 - INFO - Read: Rank: 58, Name: Compound
+2024-10-01 20:18:59,915 - INFO - Read: Rank: 59, Name: Dash
+2024-10-01 20:18:59,986 - INFO - Read: Rank: 60, Name: Zcash
+2024-10-01 20:19:00,063 - INFO - Read: Rank: 61, Name: Celsius
+2024-10-01 20:19:00,132 - INFO - Read: Rank: 62, Name: Telcoin
+2024-10-01 20:19:00,200 - INFO - Read: Rank: 63, Name: Elrond
+2024-10-01 20:19:00,274 - INFO - Read: Rank: 64, Name: yearn.finance
+2024-10-01 20:19:00,343 - INFO - Read: Rank: 65, Name: Holo
+2024-10-01 20:19:00,417 - INFO - Read: Rank: 66, Name: NEM
+2024-10-01 20:19:00,484 - INFO - Read: Rank: 67, Name: Helium
+2024-10-01 20:19:00,553 - INFO - Read: Rank: 68, Name: Quant
+2024-10-01 20:19:00,624 - INFO - Read: Rank: 69, Name: SushiSwap
+2024-10-01 20:19:00,707 - INFO - Read: Rank: 70, Name: Paxos Standard
+2024-10-01 20:19:00,784 - INFO - Read: Rank: 71, Name: Celo
+2024-10-01 20:19:00,853 - INFO - Read: Rank: 72, Name: XinFin Network
+2024-10-01 20:19:00,926 - INFO - Read: Rank: 73, Name: Enjin Coin
+2024-10-01 20:19:01,000 - INFO - Read: Rank: 74, Name: Zilliqa
+2024-10-01 20:19:01,076 - INFO - Read: Rank: 75, Name: Basic Attention Token
+2024-10-01 20:19:01,144 - INFO - Read: Rank: 76, Name: NEAR Protocol
+2024-10-01 20:19:01,220 - INFO - Read: Rank: 77, Name: Mdex
+2024-10-01 20:19:01,305 - INFO - Read: Rank: 78, Name: Stacks
+2024-10-01 20:19:01,386 - INFO - Read: Rank: 79, Name: Decentraland
+2024-10-01 20:19:01,456 - INFO - Read: Rank: 80, Name: Synthetix
+2024-10-01 20:19:01,530 - INFO - Read: Rank: 81, Name: Bitcoin Gold
+2024-10-01 20:19:01,604 - INFO - Read: Rank: 82, Name: Nexo
+2024-10-01 20:19:01,677 - INFO - Read: Rank: 83, Name: Harmony
+2024-10-01 20:19:01,753 - INFO - Read: Rank: 84, Name: HUSD
+2024-10-01 20:19:01,829 - INFO - Read: Rank: 85, Name: Revain
+2024-10-01 20:19:01,921 - INFO - Read: Rank: 86, Name: Bancor
+2024-10-01 20:19:01,995 - INFO - Read: Rank: 87, Name: Horizen
+2024-10-01 20:19:02,073 - INFO - Read: Rank: 88, Name: Nano
+2024-10-01 20:19:02,145 - INFO - Read: Rank: 89, Name: DigiByte
+2024-10-01 20:19:02,217 - INFO - Read: Rank: 90, Name: Qtum
+2024-10-01 20:19:02,292 - INFO - Read: Rank: 91, Name: OKB
+2024-10-01 20:19:02,366 - INFO - Read: Rank: 92, Name: Curve DAO Token
+2024-10-01 20:19:02,442 - INFO - Read: Rank: 93, Name: KuCoin Token
+2024-10-01 20:19:02,518 - INFO - Read: Rank: 94, Name: Fantom
+2024-10-01 20:19:02,595 - INFO - Read: Rank: 95, Name: Ontology
+2024-10-01 20:19:02,670 - INFO - Read: Rank: 96, Name: Siacoin
+2024-10-01 20:19:02,742 - INFO - Read: Rank: 97, Name: 0x
+2024-10-01 20:19:02,828 - INFO - Read: Rank: 98, Name: OMG Network
+2024-10-01 20:19:02,907 - INFO - Read: Rank: 99, Name: UMA
+2024-10-01 20:19:02,979 - INFO - Read: Rank: 100, Name: BakeryToken
+2024-10-01 20:19:03,063 - INFO - Read: Rank: 101, Name: Voyager Token
+2024-10-01 20:19:03,135 - INFO - Read: Rank: 102, Name: SwissBorg
+2024-10-01 20:19:03,207 - INFO - Read: Rank: 103, Name: Ankr
+2024-10-01 20:19:03,282 - INFO - Read: Rank: 104, Name: Ravencoin
+2024-10-01 20:19:03,354 - INFO - Read: Rank: 105, Name: ICON
+2024-10-01 20:19:03,440 - INFO - Read: Rank: 106, Name: 1inch
+2024-10-01 20:19:03,536 - INFO - Read: Rank: 107, Name: Livepeer
+2024-10-01 20:19:03,614 - INFO - Read: Rank: 108, Name: Neutrino USD
+2024-10-01 20:19:03,691 - INFO - Read: Rank: 109, Name: Bitcoin Diamond
+2024-10-01 20:19:03,770 - INFO - Read: Rank: 110, Name: renBTC
+2024-10-01 20:19:03,849 - INFO - Read: Rank: 111, Name: Flow
+2024-10-01 20:19:03,930 - INFO - Read: Rank: 112, Name: Verge
+2024-10-01 20:19:04,009 - INFO - Read: Rank: 113, Name: Ren
+2024-10-01 20:19:04,088 - INFO - Read: Rank: 114, Name: Arweave
+2024-10-01 20:19:04,171 - INFO - Read: Rank: 115, Name: WazirX
+2024-10-01 20:19:04,242 - INFO - Read: Rank: 116, Name: Loopring
+2024-10-01 20:19:04,311 - INFO - Read: Rank: 117, Name: Nervos Network
+2024-10-01 20:19:04,384 - INFO - Read: Rank: 118, Name: IOST
+2024-10-01 20:19:04,454 - INFO - Read: Rank: 119, Name: MaidSafeCoin
+2024-10-01 20:19:04,522 - INFO - Read: Rank: 120, Name: WINkLink
+2024-10-01 20:19:04,596 - INFO - Read: Rank: 121, Name: Reserve Rights
+2024-10-01 20:19:04,670 - INFO - Read: Rank: 122, Name: Kyber Network Crystal Legacy
+2024-10-01 20:19:04,748 - INFO - Read: Rank: 123, Name: Gnosis
+2024-10-01 20:19:04,819 - INFO - Read: Rank: 124, Name: Lisk
+2024-10-01 20:19:04,893 - INFO - Read: Rank: 125, Name: Ocean Protocol
+2024-10-01 20:19:04,972 - INFO - Read: Rank: 126, Name: Golem
+2024-10-01 20:19:05,045 - INFO - Read: Rank: 127, Name: GateToken
+2024-10-01 20:19:05,116 - INFO - Read: Rank: 128, Name: Kava.io
+2024-10-01 20:19:05,184 - INFO - Read: Rank: 129, Name: Wootrade
+2024-10-01 20:19:05,255 - INFO - Read: Rank: 130, Name: Mina
+2024-10-01 20:19:05,329 - INFO - Read: Rank: 131, Name: iExec RLC
+2024-10-01 20:19:05,397 - INFO - Read: Rank: 132, Name: VeThor Token
+2024-10-01 20:19:05,464 - INFO - Read: Rank: 133, Name: SKALE Network
+2024-10-01 20:19:05,541 - INFO - Read: Rank: 134, Name: Dent
+2024-10-01 20:19:05,611 - INFO - Read: Rank: 135, Name: Conflux Network
+2024-10-01 20:19:05,681 - INFO - Read: Rank: 136, Name: Gemini Dollar
+2024-10-01 20:19:05,751 - INFO - Read: Rank: 137, Name: Origin Protocol
+2024-10-01 20:19:05,821 - INFO - Read: Rank: 138, Name: Reef
+2024-10-01 20:19:05,890 - INFO - Read: Rank: 139, Name: Ergo
+2024-10-01 20:19:05,959 - INFO - Read: Rank: 140, Name: Prometeus
+2024-10-01 20:19:06,030 - INFO - Read: Rank: 141, Name: Venus
+2024-10-01 20:19:06,102 - INFO - Read: Rank: 142, Name: Storj
+2024-10-01 20:19:06,171 - INFO - Read: Rank: 143, Name: Energy Web Token
+2024-10-01 20:19:06,245 - INFO - Read: Rank: 144, Name: Band Protocol
+2024-10-01 20:19:06,320 - INFO - Read: Rank: 145, Name: Cartesi
+2024-10-01 20:19:06,392 - INFO - Read: Rank: 146, Name: Swipe
+2024-10-01 20:19:06,464 - INFO - Read: Rank: 147, Name: Uquid Coin
+2024-10-01 20:19:06,538 - INFO - Read: Rank: 148, Name: MCO
+2024-10-01 20:19:06,607 - INFO - Read: Rank: 149, Name: FUNToken
+2024-10-01 20:19:06,678 - INFO - Read: Rank: 150, Name: Orchid
+2024-10-01 20:19:06,752 - INFO - Read: Rank: 151, Name: Stratis
+2024-10-01 20:19:06,819 - INFO - Read: Rank: 152, Name: LockTrip
+2024-10-01 20:19:06,888 - INFO - Read: Rank: 153, Name: ABBC Coin
+2024-10-01 20:19:06,961 - INFO - Read: Rank: 154, Name: Bitcoin Standard Hashrate Token
+2024-10-01 20:19:07,032 - INFO - Read: Rank: 155, Name: ZKSwap
+2024-10-01 20:19:07,115 - INFO - Read: Rank: 156, Name: WAX
+2024-10-01 20:19:07,186 - INFO - Read: Rank: 157, Name: Status
+2024-10-01 20:19:07,254 - INFO - Read: Rank: 158, Name: NKN
+2024-10-01 20:19:07,324 - INFO - Read: Rank: 159, Name: Ontology Gas
+2024-10-01 20:19:07,393 - INFO - Read: Rank: 160, Name: IoTeX
+2024-10-01 20:19:07,464 - INFO - Read: Rank: 161, Name: NuCypher
+2024-10-01 20:19:07,538 - INFO - Read: Rank: 162, Name: Injective Protocol
+2024-10-01 20:19:07,616 - INFO - Read: Rank: 163, Name: Celer Network
+2024-10-01 20:19:07,686 - INFO - Read: Rank: 164, Name: Unibright
+2024-10-01 20:19:07,758 - INFO - Read: Rank: 165, Name: Fetch.ai
+2024-10-01 20:19:07,850 - INFO - Read: Rank: 166, Name: Serum
+2024-10-01 20:19:07,920 - INFO - Read: Rank: 167, Name: Numeraire
+2024-10-01 20:19:07,990 - INFO - Read: Rank: 168, Name: StormX
+2024-10-01 20:19:08,062 - INFO - Read: Rank: 169, Name: Aragon
+2024-10-01 20:19:08,132 - INFO - Read: Rank: 170, Name: Augur
+2024-10-01 20:19:08,216 - INFO - Read: Rank: 171, Name: Hxro
+2024-10-01 20:19:08,290 - INFO - Read: Rank: 172, Name: ZB Token
+2024-10-01 20:19:08,359 - INFO - Read: Rank: 173, Name: SingularityNET
+2024-10-01 20:19:08,432 - INFO - Read: Rank: 174, Name: The Sandbox
+2024-10-01 20:19:08,506 - INFO - Read: Rank: 175, Name: Ultra
+2024-10-01 20:19:08,578 - INFO - Read: Rank: 176, Name: Civic
+2024-10-01 20:19:08,646 - INFO - Read: Rank: 177, Name: BitShares
+2024-10-01 20:19:08,715 - INFO - Read: Rank: 178, Name: Ampleforth
+2024-10-01 20:19:08,783 - INFO - Read: Rank: 179, Name: Phala Network
+2024-10-01 20:19:08,852 - INFO - Read: Rank: 180, Name: TomoChain
+2024-10-01 20:19:08,922 - INFO - Read: Rank: 181, Name: Enzyme
+2024-10-01 20:19:08,990 - INFO - Read: Rank: 182, Name: Orbs
+2024-10-01 20:19:09,058 - INFO - Read: Rank: 183, Name: Balancer
+2024-10-01 20:19:09,127 - INFO - Read: Rank: 184, Name: RSK Infrastructure Framework
+2024-10-01 20:19:09,211 - INFO - Read: Rank: 185, Name: Strike
+2024-10-01 20:19:09,285 - INFO - Read: Rank: 186, Name: Ardor
+2024-10-01 20:19:09,357 - INFO - Read: Rank: 187, Name: Alpha Finance Lab
+2024-10-01 20:19:09,433 - INFO - Read: Rank: 188, Name: Casper
+2024-10-01 20:19:09,503 - INFO - Read: Rank: 189, Name: Travala.com
+2024-10-01 20:19:09,577 - INFO - Read: Rank: 190, Name: PAX Gold
+2024-10-01 20:19:09,652 - INFO - Read: Rank: 191, Name: Function X
+2024-10-01 20:19:09,733 - INFO - Read: Rank: 192, Name: Streamr
+2024-10-01 20:19:09,803 - INFO - Read: Rank: 193, Name: Wanchain
+2024-10-01 20:19:09,875 - INFO - Read: Rank: 194, Name: JUST
+2024-10-01 20:19:09,948 - INFO - Read: Rank: 195, Name: Steem
+2024-10-01 20:19:10,018 - INFO - Read: Rank: 196, Name: Hive
+2024-10-01 20:19:10,088 - INFO - Read: Rank: 197, Name: Utrust
+2024-10-01 20:19:10,155 - INFO - Read: Rank: 198, Name: DODO
+2024-10-01 20:19:10,221 - INFO - Read: Rank: 199, Name: Velas
+2024-10-01 20:19:10,293 - INFO - Read: Rank: 200, Name: Divi
+2024-10-01 20:25:10,060 - INFO - Starting coin scraping process
+2024-10-01 20:25:28,960 - INFO - Slowly scrolled to the bottom of the page
+2024-10-01 20:25:40,790 - INFO - Slowly scrolled to the top of the page
+2024-10-01 20:25:40,803 - INFO - Loading data from row 1 to row 200
+2024-10-01 20:25:41,438 - INFO - Scrolled to row 1
+2024-10-01 20:25:52,788 - INFO - Scrolled to row 200
+2024-10-01 20:26:05,708 - INFO - Scrolled to row 1
+2024-10-01 20:26:16,950 - INFO - Scrolled to row 200
+2024-10-01 20:26:19,080 - INFO - Read: Rank: 1, Name: Bitcoin
+2024-10-01 20:26:19,152 - INFO - Read: Rank: 2, Name: Ethereum
+2024-10-01 20:26:19,226 - INFO - Read: Rank: 3, Name: Tether
+2024-10-01 20:26:19,297 - INFO - Read: Rank: 4, Name: Binance Coin
+2024-10-01 20:26:19,367 - INFO - Read: Rank: 5, Name: Cardano
+2024-10-01 20:26:19,456 - INFO - Read: Rank: 6, Name: Dogecoin
+2024-10-01 20:26:19,543 - INFO - Read: Rank: 7, Name: XRP
+2024-10-01 20:26:19,626 - INFO - Read: Rank: 8, Name: USD Coin
+2024-10-01 20:26:19,692 - INFO - Read: Rank: 9, Name: Polkadot
+2024-10-01 20:26:19,762 - INFO - Read: Rank: 10, Name: Binance USD
+2024-10-01 20:26:19,842 - INFO - Read: Rank: 11, Name: Uniswap
+2024-10-01 20:26:19,915 - INFO - Read: Rank: 12, Name: Bitcoin Cash
+2024-10-01 20:26:19,988 - INFO - Read: Rank: 13, Name: Litecoin
+2024-10-01 20:26:20,052 - INFO - Read: Rank: 14, Name: Solana
+2024-10-01 20:26:20,113 - INFO - Read: Rank: 15, Name: Chainlink
+2024-10-01 20:26:20,186 - INFO - Read: Rank: 16, Name: Polygon
+2024-10-01 20:26:20,252 - INFO - Read: Rank: 17, Name: THETA
+2024-10-01 20:26:20,355 - INFO - Read: Rank: 18, Name: Wrapped Bitcoin
+2024-10-01 20:26:20,421 - INFO - Read: Rank: 19, Name: Stellar
+2024-10-01 20:26:20,485 - INFO - Read: Rank: 20, Name: Internet Computer
+2024-10-01 20:26:20,550 - INFO - Read: Rank: 21, Name: Dai
+2024-10-01 20:26:20,617 - INFO - Read: Rank: 22, Name: VeChain
+2024-10-01 20:26:20,690 - INFO - Read: Rank: 23, Name: Ethereum Classic
+2024-10-01 20:26:20,759 - INFO - Read: Rank: 24, Name: TRON
+2024-10-01 20:26:20,829 - INFO - Read: Rank: 25, Name: Filecoin
+2024-10-01 20:26:20,890 - INFO - Read: Rank: 26, Name: Monero
+2024-10-01 20:26:20,959 - INFO - Read: Rank: 27, Name: EOS
+2024-10-01 20:26:21,030 - INFO - Read: Rank: 28, Name: SHIBA INU
+2024-10-01 20:26:21,133 - INFO - Read: Rank: 29, Name: Crypto.com Coin
+2024-10-01 20:26:21,192 - INFO - Read: Rank: 30, Name: Amp
+2024-10-01 20:26:21,257 - INFO - Read: Rank: 31, Name: Aave
+2024-10-01 20:26:21,319 - INFO - Read: Rank: 32, Name: Algorand
+2024-10-01 20:26:21,397 - INFO - Read: Rank: 33, Name: Bitcoin BEP2
+2024-10-01 20:26:21,487 - INFO - Read: Rank: 34, Name: Klaytn
+2024-10-01 20:26:21,560 - INFO - Read: Rank: 35, Name: Bitcoin SV
+2024-10-01 20:26:21,630 - INFO - Read: Rank: 36, Name: PancakeSwap
+2024-10-01 20:26:21,699 - INFO - Read: Rank: 37, Name: FTX Token
+2024-10-01 20:26:21,760 - INFO - Read: Rank: 38, Name: Terra
+2024-10-01 20:26:21,844 - INFO - Read: Rank: 39, Name: Theta Fuel
+2024-10-01 20:26:21,912 - INFO - Read: Rank: 40, Name: Neo
+2024-10-01 20:26:21,982 - INFO - Read: Rank: 41, Name: Tezos
+2024-10-01 20:26:22,048 - INFO - Read: Rank: 42, Name: IOTA
+2024-10-01 20:26:22,126 - INFO - Read: Rank: 43, Name: Cosmos
+2024-10-01 20:26:22,199 - INFO - Read: Rank: 44, Name: Maker
+2024-10-01 20:26:22,267 - INFO - Read: Rank: 45, Name: UNUS SED LEO
+2024-10-01 20:26:22,350 - INFO - Read: Rank: 46, Name: TerraUSD
+2024-10-01 20:26:22,426 - INFO - Read: Rank: 47, Name: Avalanche
+2024-10-01 20:26:22,504 - INFO - Read: Rank: 48, Name: Huobi Token
+2024-10-01 20:26:22,585 - INFO - Read: Rank: 49, Name: BitTorrent
+2024-10-01 20:26:22,676 - INFO - Read: Rank: 50, Name: Decred
+2024-10-01 20:26:22,756 - INFO - Read: Rank: 51, Name: The Graph
+2024-10-01 20:26:22,836 - INFO - Read: Rank: 52, Name: Hedera Hashgraph
+2024-10-01 20:26:22,909 - INFO - Read: Rank: 53, Name: Kusama
+2024-10-01 20:26:22,998 - INFO - Read: Rank: 54, Name: Waves
+2024-10-01 20:26:23,075 - INFO - Read: Rank: 55, Name: THORChain
+2024-10-01 20:26:23,154 - INFO - Read: Rank: 56, Name: TrueUSD
+2024-10-01 20:26:23,221 - INFO - Read: Rank: 57, Name: Chiliz
+2024-10-01 20:26:23,298 - INFO - Read: Rank: 58, Name: Compound
+2024-10-01 20:26:23,365 - INFO - Read: Rank: 59, Name: Dash
+2024-10-01 20:26:23,438 - INFO - Read: Rank: 60, Name: Zcash
+2024-10-01 20:26:23,502 - INFO - Read: Rank: 61, Name: Celsius
+2024-10-01 20:26:23,569 - INFO - Read: Rank: 62, Name: Telcoin
+2024-10-01 20:26:23,645 - INFO - Read: Rank: 63, Name: Elrond
+2024-10-01 20:26:23,709 - INFO - Read: Rank: 64, Name: yearn.finance
+2024-10-01 20:26:23,780 - INFO - Read: Rank: 65, Name: Holo
+2024-10-01 20:26:23,844 - INFO - Read: Rank: 66, Name: NEM
+2024-10-01 20:26:23,912 - INFO - Read: Rank: 67, Name: Helium
+2024-10-01 20:26:23,982 - INFO - Read: Rank: 68, Name: Quant
+2024-10-01 20:26:24,046 - INFO - Read: Rank: 69, Name: SushiSwap
+2024-10-01 20:26:24,124 - INFO - Read: Rank: 70, Name: Paxos Standard
+2024-10-01 20:26:24,208 - INFO - Read: Rank: 71, Name: Celo
+2024-10-01 20:26:24,280 - INFO - Read: Rank: 72, Name: XinFin Network
+2024-10-01 20:26:24,344 - INFO - Read: Rank: 73, Name: Enjin Coin
+2024-10-01 20:26:24,414 - INFO - Read: Rank: 74, Name: Zilliqa
+2024-10-01 20:26:24,494 - INFO - Read: Rank: 75, Name: Basic Attention Token
+2024-10-01 20:26:24,559 - INFO - Read: Rank: 76, Name: NEAR Protocol
+2024-10-01 20:26:24,630 - INFO - Read: Rank: 77, Name: Mdex
+2024-10-01 20:26:24,695 - INFO - Read: Rank: 78, Name: Stacks
+2024-10-01 20:26:24,767 - INFO - Read: Rank: 79, Name: Decentraland
+2024-10-01 20:26:24,847 - INFO - Read: Rank: 80, Name: Synthetix
+2024-10-01 20:26:24,920 - INFO - Read: Rank: 81, Name: Bitcoin Gold
+2024-10-01 20:26:24,985 - INFO - Read: Rank: 82, Name: Nexo
+2024-10-01 20:26:25,055 - INFO - Read: Rank: 83, Name: Harmony
+2024-10-01 20:26:25,123 - INFO - Read: Rank: 84, Name: HUSD
+2024-10-01 20:26:25,193 - INFO - Read: Rank: 85, Name: Revain
+2024-10-01 20:26:25,260 - INFO - Read: Rank: 86, Name: Bancor
+2024-10-01 20:26:25,325 - INFO - Read: Rank: 87, Name: Horizen
+2024-10-01 20:26:25,389 - INFO - Read: Rank: 88, Name: Nano
+2024-10-01 20:26:25,457 - INFO - Read: Rank: 89, Name: DigiByte
+2024-10-01 20:26:25,523 - INFO - Read: Rank: 90, Name: Qtum
+2024-10-01 20:26:25,587 - INFO - Read: Rank: 91, Name: OKB
+2024-10-01 20:26:25,650 - INFO - Read: Rank: 92, Name: Curve DAO Token
+2024-10-01 20:26:25,713 - INFO - Read: Rank: 93, Name: KuCoin Token
+2024-10-01 20:26:25,782 - INFO - Read: Rank: 94, Name: Fantom
+2024-10-01 20:26:25,848 - INFO - Read: Rank: 95, Name: Ontology
+2024-10-01 20:26:25,912 - INFO - Read: Rank: 96, Name: Siacoin
+2024-10-01 20:26:25,996 - INFO - Read: Rank: 97, Name: 0x
+2024-10-01 20:26:26,069 - INFO - Read: Rank: 98, Name: OMG Network
+2024-10-01 20:26:26,132 - INFO - Read: Rank: 99, Name: UMA
+2024-10-01 20:26:26,203 - INFO - Read: Rank: 100, Name: BakeryToken
+2024-10-01 20:26:26,281 - INFO - Read: Rank: 101, Name: Voyager Token
+2024-10-01 20:26:26,361 - INFO - Read: Rank: 102, Name: SwissBorg
+2024-10-01 20:26:26,435 - INFO - Read: Rank: 103, Name: Ankr
+2024-10-01 20:26:26,504 - INFO - Read: Rank: 104, Name: Ravencoin
+2024-10-01 20:26:26,575 - INFO - Read: Rank: 105, Name: ICON
+2024-10-01 20:26:26,750 - INFO - Read: Rank: 106, Name: 1inch
+2024-10-01 20:26:26,884 - INFO - Read: Rank: 107, Name: Livepeer
+2024-10-01 20:26:26,959 - INFO - Read: Rank: 108, Name: Neutrino USD
+2024-10-01 20:26:27,035 - INFO - Read: Rank: 109, Name: Bitcoin Diamond
+2024-10-01 20:26:27,108 - INFO - Read: Rank: 110, Name: renBTC
+2024-10-01 20:26:27,176 - INFO - Read: Rank: 111, Name: Flow
+2024-10-01 20:26:27,253 - INFO - Read: Rank: 112, Name: Verge
+2024-10-01 20:26:27,326 - INFO - Read: Rank: 113, Name: Ren
+2024-10-01 20:26:27,406 - INFO - Read: Rank: 114, Name: Arweave
+2024-10-01 20:26:27,483 - INFO - Read: Rank: 115, Name: WazirX
+2024-10-01 20:26:27,545 - INFO - Read: Rank: 116, Name: Loopring
+2024-10-01 20:26:27,607 - INFO - Read: Rank: 117, Name: Nervos Network
+2024-10-01 20:26:27,672 - INFO - Read: Rank: 118, Name: IOST
+2024-10-01 20:26:27,736 - INFO - Read: Rank: 119, Name: MaidSafeCoin
+2024-10-01 20:26:27,799 - INFO - Read: Rank: 120, Name: WINkLink
+2024-10-01 20:26:27,865 - INFO - Read: Rank: 121, Name: Reserve Rights
+2024-10-01 20:26:27,927 - INFO - Read: Rank: 122, Name: Kyber Network Crystal Legacy
+2024-10-01 20:26:27,990 - INFO - Read: Rank: 123, Name: Gnosis
+2024-10-01 20:26:28,059 - INFO - Read: Rank: 124, Name: Lisk
+2024-10-01 20:26:28,122 - INFO - Read: Rank: 125, Name: Ocean Protocol
+2024-10-01 20:26:28,200 - INFO - Read: Rank: 126, Name: Golem
+2024-10-01 20:26:28,284 - INFO - Read: Rank: 127, Name: GateToken
+2024-10-01 20:26:28,347 - INFO - Read: Rank: 128, Name: Kava.io
+2024-10-01 20:26:28,412 - INFO - Read: Rank: 129, Name: Wootrade
+2024-10-01 20:26:28,488 - INFO - Read: Rank: 130, Name: Mina
+2024-10-01 20:26:28,569 - INFO - Read: Rank: 131, Name: iExec RLC
+2024-10-01 20:26:28,646 - INFO - Read: Rank: 132, Name: VeThor Token
+2024-10-01 20:26:28,718 - INFO - Read: Rank: 133, Name: SKALE Network
+2024-10-01 20:26:28,777 - INFO - Read: Rank: 134, Name: Dent
+2024-10-01 20:26:28,841 - INFO - Read: Rank: 135, Name: Conflux Network
+2024-10-01 20:26:28,906 - INFO - Read: Rank: 136, Name: Gemini Dollar
+2024-10-01 20:26:28,973 - INFO - Read: Rank: 137, Name: Origin Protocol
+2024-10-01 20:26:29,036 - INFO - Read: Rank: 138, Name: Reef
+2024-10-01 20:26:29,102 - INFO - Read: Rank: 139, Name: Ergo
+2024-10-01 20:26:29,166 - INFO - Read: Rank: 140, Name: Prometeus
+2024-10-01 20:26:29,227 - INFO - Read: Rank: 141, Name: Venus
+2024-10-01 20:26:29,307 - INFO - Read: Rank: 142, Name: Storj
+2024-10-01 20:26:29,373 - INFO - Read: Rank: 143, Name: Energy Web Token
+2024-10-01 20:26:29,436 - INFO - Read: Rank: 144, Name: Band Protocol
+2024-10-01 20:26:29,500 - INFO - Read: Rank: 145, Name: Cartesi
+2024-10-01 20:26:29,566 - INFO - Read: Rank: 146, Name: Swipe
+2024-10-01 20:26:29,629 - INFO - Read: Rank: 147, Name: Uquid Coin
+2024-10-01 20:26:29,694 - INFO - Read: Rank: 148, Name: MCO
+2024-10-01 20:26:29,758 - INFO - Read: Rank: 149, Name: FUNToken
+2024-10-01 20:26:29,818 - INFO - Read: Rank: 150, Name: Orchid
+2024-10-01 20:26:29,880 - INFO - Read: Rank: 151, Name: Stratis
+2024-10-01 20:26:29,938 - INFO - Read: Rank: 152, Name: LockTrip
+2024-10-01 20:26:30,003 - INFO - Read: Rank: 153, Name: ABBC Coin
+2024-10-01 20:26:30,064 - INFO - Read: Rank: 154, Name: Bitcoin Standard Hashrate Token
+2024-10-01 20:26:30,125 - INFO - Read: Rank: 155, Name: ZKSwap
+2024-10-01 20:26:30,189 - INFO - Read: Rank: 156, Name: WAX
+2024-10-01 20:26:30,252 - INFO - Read: Rank: 157, Name: Status
+2024-10-01 20:26:30,318 - INFO - Read: Rank: 158, Name: NKN
+2024-10-01 20:26:30,380 - INFO - Read: Rank: 159, Name: Ontology Gas
+2024-10-01 20:26:30,440 - INFO - Read: Rank: 160, Name: IoTeX
+2024-10-01 20:26:30,506 - INFO - Read: Rank: 161, Name: NuCypher
+2024-10-01 20:26:30,567 - INFO - Read: Rank: 162, Name: Injective Protocol
+2024-10-01 20:26:30,640 - INFO - Read: Rank: 163, Name: Celer Network
+2024-10-01 20:26:30,704 - INFO - Read: Rank: 164, Name: Unibright
+2024-10-01 20:26:30,768 - INFO - Read: Rank: 165, Name: Fetch.ai
+2024-10-01 20:26:30,831 - INFO - Read: Rank: 166, Name: Serum
+2024-10-01 20:26:30,892 - INFO - Read: Rank: 167, Name: Numeraire
+2024-10-01 20:26:30,955 - INFO - Read: Rank: 168, Name: StormX
+2024-10-01 20:26:31,018 - INFO - Read: Rank: 169, Name: Aragon
+2024-10-01 20:26:31,079 - INFO - Read: Rank: 170, Name: Augur
+2024-10-01 20:26:31,144 - INFO - Read: Rank: 171, Name: Hxro
+2024-10-01 20:26:31,207 - INFO - Read: Rank: 172, Name: ZB Token
+2024-10-01 20:26:31,269 - INFO - Read: Rank: 173, Name: SingularityNET
+2024-10-01 20:26:31,331 - INFO - Read: Rank: 174, Name: The Sandbox
+2024-10-01 20:26:31,394 - INFO - Read: Rank: 175, Name: Ultra
+2024-10-01 20:26:31,458 - INFO - Read: Rank: 176, Name: Civic
+2024-10-01 20:26:31,518 - INFO - Read: Rank: 177, Name: BitShares
+2024-10-01 20:26:31,578 - INFO - Read: Rank: 178, Name: Ampleforth
+2024-10-01 20:26:31,646 - INFO - Read: Rank: 179, Name: Phala Network
+2024-10-01 20:26:31,710 - INFO - Read: Rank: 180, Name: TomoChain
+2024-10-01 20:26:31,771 - INFO - Read: Rank: 181, Name: Enzyme
+2024-10-01 20:26:31,836 - INFO - Read: Rank: 182, Name: Orbs
+2024-10-01 20:26:31,899 - INFO - Read: Rank: 183, Name: Balancer
+2024-10-01 20:26:31,961 - INFO - Read: Rank: 184, Name: RSK Infrastructure Framework
+2024-10-01 20:26:32,037 - INFO - Read: Rank: 185, Name: Strike
+2024-10-01 20:26:32,097 - INFO - Read: Rank: 186, Name: Ardor
+2024-10-01 20:26:32,164 - INFO - Read: Rank: 187, Name: Alpha Finance Lab
+2024-10-01 20:26:32,229 - INFO - Read: Rank: 188, Name: Casper
+2024-10-01 20:26:32,291 - INFO - Read: Rank: 189, Name: Travala.com
+2024-10-01 20:26:32,354 - INFO - Read: Rank: 190, Name: PAX Gold
+2024-10-01 20:26:32,417 - INFO - Read: Rank: 191, Name: Function X
+2024-10-01 20:26:32,479 - INFO - Read: Rank: 192, Name: Streamr
+2024-10-01 20:26:32,541 - INFO - Read: Rank: 193, Name: Wanchain
+2024-10-01 20:26:32,604 - INFO - Read: Rank: 194, Name: JUST
+2024-10-01 20:26:32,670 - INFO - Read: Rank: 195, Name: Steem
+2024-10-01 20:26:32,738 - INFO - Read: Rank: 196, Name: Hive
+2024-10-01 20:26:32,806 - INFO - Read: Rank: 197, Name: Utrust
+2024-10-01 20:26:32,870 - INFO - Read: Rank: 198, Name: DODO
+2024-10-01 20:26:32,933 - INFO - Read: Rank: 199, Name: Velas
+2024-10-01 20:26:32,992 - INFO - Read: Rank: 200, Name: Divi
+2024-10-01 20:26:33,132 - INFO - Clicked 'Load More'
+2024-10-01 20:26:35,157 - INFO - Loading data from row 201 to row 400
+2024-10-01 20:26:35,796 - INFO - Scrolled to row 201
+2024-10-01 20:26:46,722 - INFO - Scrolled to row 400
+2024-10-01 20:34:09,761 - INFO - Starting coin scraping process
+2024-10-01 20:38:46,733 - INFO - Starting coin scraping process
+2024-10-01 20:39:05,164 - INFO - Slowly scrolled to the bottom of the page
+2024-10-01 20:39:16,838 - INFO - Slowly scrolled to the top of the page
+2024-10-01 20:39:16,856 - INFO - Loading data from row 1 to row 200
+2024-10-01 20:39:17,491 - INFO - Scrolled to row 1
+2024-10-01 20:39:28,655 - INFO - Scrolled to row 200
+2024-10-01 20:39:41,961 - INFO - Scrolled to row 1
+2024-10-01 20:39:53,177 - INFO - Scrolled to row 200
+2024-10-01 20:39:55,316 - INFO - Read: Rank: 1, Name: Bitcoin
+2024-10-01 20:39:55,391 - INFO - Read: Rank: 2, Name: Ethereum
+2024-10-01 20:39:55,469 - INFO - Read: Rank: 3, Name: Tether
+2024-10-01 20:39:55,553 - INFO - Read: Rank: 4, Name: Binance Coin
+2024-10-01 20:39:55,633 - INFO - Read: Rank: 5, Name: Cardano
+2024-10-01 20:39:55,704 - INFO - Read: Rank: 6, Name: Dogecoin
+2024-10-01 20:39:55,782 - INFO - Read: Rank: 7, Name: XRP
+2024-10-01 20:39:55,873 - INFO - Read: Rank: 8, Name: USD Coin
+2024-10-01 20:39:55,947 - INFO - Read: Rank: 9, Name: Polkadot
+2024-10-01 20:39:56,018 - INFO - Read: Rank: 10, Name: Binance USD
+2024-10-01 20:39:56,092 - INFO - Read: Rank: 11, Name: Uniswap
+2024-10-01 20:39:56,167 - INFO - Read: Rank: 12, Name: Bitcoin Cash
+2024-10-01 20:39:56,238 - INFO - Read: Rank: 13, Name: Litecoin
+2024-10-01 20:39:56,313 - INFO - Read: Rank: 14, Name: Solana
+2024-10-01 20:39:56,381 - INFO - Read: Rank: 15, Name: Chainlink
+2024-10-01 20:39:56,454 - INFO - Read: Rank: 16, Name: Polygon
+2024-10-01 20:39:56,527 - INFO - Read: Rank: 17, Name: THETA
+2024-10-01 20:39:56,599 - INFO - Read: Rank: 18, Name: Wrapped Bitcoin
+2024-10-01 20:39:56,668 - INFO - Read: Rank: 19, Name: Stellar
+2024-10-01 20:39:56,738 - INFO - Read: Rank: 20, Name: Internet Computer
+2024-10-01 20:39:56,806 - INFO - Read: Rank: 21, Name: Dai
+2024-10-01 20:39:56,873 - INFO - Read: Rank: 22, Name: VeChain
+2024-10-01 20:39:56,946 - INFO - Read: Rank: 23, Name: Ethereum Classic
+2024-10-01 20:39:57,014 - INFO - Read: Rank: 24, Name: TRON
+2024-10-01 20:39:57,095 - INFO - Read: Rank: 25, Name: Filecoin
+2024-10-01 20:39:57,174 - INFO - Read: Rank: 26, Name: Monero
+2024-10-01 20:39:57,259 - INFO - Read: Rank: 27, Name: EOS
+2024-10-01 20:39:57,350 - INFO - Read: Rank: 28, Name: SHIBA INU
+2024-10-01 20:39:57,433 - INFO - Read: Rank: 29, Name: Crypto.com Coin
+2024-10-01 20:39:57,505 - INFO - Read: Rank: 30, Name: Amp
+2024-10-01 20:39:57,577 - INFO - Read: Rank: 31, Name: Aave
+2024-10-01 20:39:57,653 - INFO - Read: Rank: 32, Name: Algorand
+2024-10-01 20:39:57,724 - INFO - Read: Rank: 33, Name: Bitcoin BEP2
+2024-10-01 20:39:57,797 - INFO - Read: Rank: 34, Name: Klaytn
+2024-10-01 20:39:57,882 - INFO - Read: Rank: 35, Name: Bitcoin SV
+2024-10-01 20:39:57,961 - INFO - Read: Rank: 36, Name: PancakeSwap
+2024-10-01 20:39:58,031 - INFO - Read: Rank: 37, Name: FTX Token
+2024-10-01 20:39:58,104 - INFO - Read: Rank: 38, Name: Terra
+2024-10-01 20:39:58,179 - INFO - Read: Rank: 39, Name: Theta Fuel
+2024-10-01 20:39:58,247 - INFO - Read: Rank: 40, Name: Neo
+2024-10-01 20:39:58,319 - INFO - Read: Rank: 41, Name: Tezos
+2024-10-01 20:39:58,398 - INFO - Read: Rank: 42, Name: IOTA
+2024-10-01 20:39:58,470 - INFO - Read: Rank: 43, Name: Cosmos
+2024-10-01 20:39:58,554 - INFO - Read: Rank: 44, Name: Maker
+2024-10-01 20:39:58,638 - INFO - Read: Rank: 45, Name: UNUS SED LEO
+2024-10-01 20:39:58,712 - INFO - Read: Rank: 46, Name: TerraUSD
+2024-10-01 20:39:58,790 - INFO - Read: Rank: 47, Name: Avalanche
+2024-10-01 20:39:58,860 - INFO - Read: Rank: 48, Name: Huobi Token
+2024-10-01 20:39:58,938 - INFO - Read: Rank: 49, Name: BitTorrent
+2024-10-01 20:39:59,040 - INFO - Read: Rank: 50, Name: Decred
+2024-10-01 20:39:59,125 - INFO - Read: Rank: 51, Name: The Graph
+2024-10-01 20:39:59,203 - INFO - Read: Rank: 52, Name: Hedera Hashgraph
+2024-10-01 20:39:59,287 - INFO - Read: Rank: 53, Name: Kusama
+2024-10-01 20:39:59,358 - INFO - Read: Rank: 54, Name: Waves
+2024-10-01 20:39:59,433 - INFO - Read: Rank: 55, Name: THORChain
+2024-10-01 20:39:59,512 - INFO - Read: Rank: 56, Name: TrueUSD
+2024-10-01 20:39:59,589 - INFO - Read: Rank: 57, Name: Chiliz
+2024-10-01 20:39:59,669 - INFO - Read: Rank: 58, Name: Compound
+2024-10-01 20:39:59,740 - INFO - Read: Rank: 59, Name: Dash
+2024-10-01 20:39:59,815 - INFO - Read: Rank: 60, Name: Zcash
+2024-10-01 20:39:59,883 - INFO - Read: Rank: 61, Name: Celsius
+2024-10-01 20:39:59,952 - INFO - Read: Rank: 62, Name: Telcoin
+2024-10-01 20:40:00,028 - INFO - Read: Rank: 63, Name: Elrond
+2024-10-01 20:40:00,100 - INFO - Read: Rank: 64, Name: yearn.finance
+2024-10-01 20:40:00,171 - INFO - Read: Rank: 65, Name: Holo
+2024-10-01 20:40:00,242 - INFO - Read: Rank: 66, Name: NEM
+2024-10-01 20:40:00,312 - INFO - Read: Rank: 67, Name: Helium
+2024-10-01 20:40:00,382 - INFO - Read: Rank: 68, Name: Quant
+2024-10-01 20:40:00,450 - INFO - Read: Rank: 69, Name: SushiSwap
+2024-10-01 20:40:00,523 - INFO - Read: Rank: 70, Name: Paxos Standard
+2024-10-01 20:40:00,597 - INFO - Read: Rank: 71, Name: Celo
+2024-10-01 20:40:00,666 - INFO - Read: Rank: 72, Name: XinFin Network
+2024-10-01 20:40:00,736 - INFO - Read: Rank: 73, Name: Enjin Coin
+2024-10-01 20:40:00,811 - INFO - Read: Rank: 74, Name: Zilliqa
+2024-10-01 20:40:00,880 - INFO - Read: Rank: 75, Name: Basic Attention Token
+2024-10-01 20:40:00,949 - INFO - Read: Rank: 76, Name: NEAR Protocol
+2024-10-01 20:40:01,021 - INFO - Read: Rank: 77, Name: Mdex
+2024-10-01 20:40:01,098 - INFO - Read: Rank: 78, Name: Stacks
+2024-10-01 20:40:01,166 - INFO - Read: Rank: 79, Name: Decentraland
+2024-10-01 20:40:01,236 - INFO - Read: Rank: 80, Name: Synthetix
+2024-10-01 20:40:01,306 - INFO - Read: Rank: 81, Name: Bitcoin Gold
+2024-10-01 20:40:01,376 - INFO - Read: Rank: 82, Name: Nexo
+2024-10-01 20:40:01,450 - INFO - Read: Rank: 83, Name: Harmony
+2024-10-01 20:40:01,519 - INFO - Read: Rank: 84, Name: HUSD
+2024-10-01 20:40:01,604 - INFO - Read: Rank: 85, Name: Revain
+2024-10-01 20:40:01,678 - INFO - Read: Rank: 86, Name: Bancor
+2024-10-01 20:40:01,752 - INFO - Read: Rank: 87, Name: Horizen
+2024-10-01 20:40:01,823 - INFO - Read: Rank: 88, Name: Nano
+2024-10-01 20:40:01,938 - INFO - Read: Rank: 89, Name: DigiByte
+2024-10-01 20:40:02,027 - INFO - Read: Rank: 90, Name: Qtum
+2024-10-01 20:40:02,114 - INFO - Read: Rank: 91, Name: OKB
+2024-10-01 20:40:02,194 - INFO - Read: Rank: 92, Name: Curve DAO Token
+2024-10-01 20:40:02,268 - INFO - Read: Rank: 93, Name: KuCoin Token
+2024-10-01 20:40:02,346 - INFO - Read: Rank: 94, Name: Fantom
+2024-10-01 20:40:02,426 - INFO - Read: Rank: 95, Name: Ontology
+2024-10-01 20:40:02,526 - INFO - Read: Rank: 96, Name: Siacoin
+2024-10-01 20:40:02,611 - INFO - Read: Rank: 97, Name: 0x
+2024-10-01 20:40:02,694 - INFO - Read: Rank: 98, Name: OMG Network
+2024-10-01 20:40:02,780 - INFO - Read: Rank: 99, Name: UMA
+2024-10-01 20:40:02,861 - INFO - Read: Rank: 100, Name: BakeryToken
+2024-10-01 20:40:02,944 - INFO - Read: Rank: 101, Name: Voyager Token
+2024-10-01 20:40:03,023 - INFO - Read: Rank: 102, Name: SwissBorg
+2024-10-01 20:40:03,105 - INFO - Read: Rank: 103, Name: Ankr
+2024-10-01 20:40:03,180 - INFO - Read: Rank: 104, Name: Ravencoin
+2024-10-01 20:40:03,254 - INFO - Read: Rank: 105, Name: ICON
+2024-10-01 20:40:03,329 - INFO - Read: Rank: 106, Name: 1inch
+2024-10-01 20:40:03,401 - INFO - Read: Rank: 107, Name: Livepeer
+2024-10-01 20:40:03,479 - INFO - Read: Rank: 108, Name: Neutrino USD
+2024-10-01 20:40:03,554 - INFO - Read: Rank: 109, Name: Bitcoin Diamond
+2024-10-01 20:40:03,627 - INFO - Read: Rank: 110, Name: renBTC
+2024-10-01 20:40:03,723 - INFO - Read: Rank: 111, Name: Flow
+2024-10-01 20:40:03,807 - INFO - Read: Rank: 112, Name: Verge
+2024-10-01 20:40:03,890 - INFO - Read: Rank: 113, Name: Ren
+2024-10-01 20:40:03,966 - INFO - Read: Rank: 114, Name: Arweave
+2024-10-01 20:40:04,042 - INFO - Read: Rank: 115, Name: WazirX
+2024-10-01 20:40:04,122 - INFO - Read: Rank: 116, Name: Loopring
+2024-10-01 20:40:04,207 - INFO - Read: Rank: 117, Name: Nervos Network
+2024-10-01 20:40:04,298 - INFO - Read: Rank: 118, Name: IOST
+2024-10-01 20:40:04,378 - INFO - Read: Rank: 119, Name: MaidSafeCoin
+2024-10-01 20:40:04,453 - INFO - Read: Rank: 120, Name: WINkLink
+2024-10-01 20:40:04,530 - INFO - Read: Rank: 121, Name: Reserve Rights
+2024-10-01 20:40:04,601 - INFO - Read: Rank: 122, Name: Kyber Network Crystal Legacy
+2024-10-01 20:40:04,680 - INFO - Read: Rank: 123, Name: Gnosis
+2024-10-01 20:40:04,751 - INFO - Read: Rank: 124, Name: Lisk
+2024-10-01 20:40:04,826 - INFO - Read: Rank: 125, Name: Ocean Protocol
+2024-10-01 20:40:04,902 - INFO - Read: Rank: 126, Name: Golem
+2024-10-01 20:40:04,976 - INFO - Read: Rank: 127, Name: GateToken
+2024-10-01 20:40:05,052 - INFO - Read: Rank: 128, Name: Kava.io
+2024-10-01 20:40:05,130 - INFO - Read: Rank: 129, Name: Wootrade
+2024-10-01 20:40:05,207 - INFO - Read: Rank: 130, Name: Mina
+2024-10-01 20:40:05,281 - INFO - Read: Rank: 131, Name: iExec RLC
+2024-10-01 20:40:05,363 - INFO - Read: Rank: 132, Name: VeThor Token
+2024-10-01 20:40:05,432 - INFO - Read: Rank: 133, Name: SKALE Network
+2024-10-01 20:40:05,515 - INFO - Read: Rank: 134, Name: Dent
+2024-10-01 20:40:05,593 - INFO - Read: Rank: 135, Name: Conflux Network
+2024-10-01 20:40:05,664 - INFO - Read: Rank: 136, Name: Gemini Dollar
+2024-10-01 20:40:05,738 - INFO - Read: Rank: 137, Name: Origin Protocol
+2024-10-01 20:40:05,819 - INFO - Read: Rank: 138, Name: Reef
+2024-10-01 20:40:05,901 - INFO - Read: Rank: 139, Name: Ergo
+2024-10-01 20:40:05,974 - INFO - Read: Rank: 140, Name: Prometeus
+2024-10-01 20:40:06,051 - INFO - Read: Rank: 141, Name: Venus
+2024-10-01 20:40:06,125 - INFO - Read: Rank: 142, Name: Storj
+2024-10-01 20:40:06,198 - INFO - Read: Rank: 143, Name: Energy Web Token
+2024-10-01 20:40:06,274 - INFO - Read: Rank: 144, Name: Band Protocol
+2024-10-01 20:40:06,346 - INFO - Read: Rank: 145, Name: Cartesi
+2024-10-01 20:40:06,440 - INFO - Read: Rank: 146, Name: Swipe
+2024-10-01 20:40:06,512 - INFO - Read: Rank: 147, Name: Uquid Coin
+2024-10-01 20:40:06,593 - INFO - Read: Rank: 148, Name: MCO
+2024-10-01 20:40:06,664 - INFO - Read: Rank: 149, Name: FUNToken
+2024-10-01 20:40:06,742 - INFO - Read: Rank: 150, Name: Orchid
+2024-10-01 20:40:06,816 - INFO - Read: Rank: 151, Name: Stratis
+2024-10-01 20:40:06,891 - INFO - Read: Rank: 152, Name: LockTrip
+2024-10-01 20:40:06,965 - INFO - Read: Rank: 153, Name: ABBC Coin
+2024-10-01 20:40:07,035 - INFO - Read: Rank: 154, Name: Bitcoin Standard Hashrate Token
+2024-10-01 20:40:07,109 - INFO - Read: Rank: 155, Name: ZKSwap
+2024-10-01 20:40:07,184 - INFO - Read: Rank: 156, Name: WAX
+2024-10-01 20:40:07,253 - INFO - Read: Rank: 157, Name: Status
+2024-10-01 20:40:07,327 - INFO - Read: Rank: 158, Name: NKN
+2024-10-01 20:40:07,401 - INFO - Read: Rank: 159, Name: Ontology Gas
+2024-10-01 20:40:07,473 - INFO - Read: Rank: 160, Name: IoTeX
+2024-10-01 20:40:07,554 - INFO - Read: Rank: 161, Name: NuCypher
+2024-10-01 20:40:07,629 - INFO - Read: Rank: 162, Name: Injective Protocol
+2024-10-01 20:40:07,702 - INFO - Read: Rank: 163, Name: Celer Network
+2024-10-01 20:40:07,780 - INFO - Read: Rank: 164, Name: Unibright
+2024-10-01 20:40:07,852 - INFO - Read: Rank: 165, Name: Fetch.ai
+2024-10-01 20:40:07,925 - INFO - Read: Rank: 166, Name: Serum
+2024-10-01 20:40:08,013 - INFO - Read: Rank: 167, Name: Numeraire
+2024-10-01 20:40:08,103 - INFO - Read: Rank: 168, Name: StormX
+2024-10-01 20:40:08,177 - INFO - Read: Rank: 169, Name: Aragon
+2024-10-01 20:40:08,259 - INFO - Read: Rank: 170, Name: Augur
+2024-10-01 20:40:08,334 - INFO - Read: Rank: 171, Name: Hxro
+2024-10-01 20:40:08,409 - INFO - Read: Rank: 172, Name: ZB Token
+2024-10-01 20:40:08,495 - INFO - Read: Rank: 173, Name: SingularityNET
+2024-10-01 20:40:08,576 - INFO - Read: Rank: 174, Name: The Sandbox
+2024-10-01 20:40:08,654 - INFO - Read: Rank: 175, Name: Ultra
+2024-10-01 20:40:08,734 - INFO - Read: Rank: 176, Name: Civic
+2024-10-01 20:40:08,827 - INFO - Read: Rank: 177, Name: BitShares
+2024-10-01 20:40:08,911 - INFO - Read: Rank: 178, Name: Ampleforth
+2024-10-01 20:40:08,983 - INFO - Read: Rank: 179, Name: Phala Network
+2024-10-01 20:40:09,055 - INFO - Read: Rank: 180, Name: TomoChain
+2024-10-01 20:40:09,143 - INFO - Read: Rank: 181, Name: Enzyme
+2024-10-01 20:40:09,212 - INFO - Read: Rank: 182, Name: Orbs
+2024-10-01 20:40:09,295 - INFO - Read: Rank: 183, Name: Balancer
+2024-10-01 20:40:09,369 - INFO - Read: Rank: 184, Name: RSK Infrastructure Framework
+2024-10-01 20:40:09,442 - INFO - Read: Rank: 185, Name: Strike
+2024-10-01 20:40:09,519 - INFO - Read: Rank: 186, Name: Ardor
+2024-10-01 20:40:09,593 - INFO - Read: Rank: 187, Name: Alpha Finance Lab
+2024-10-01 20:40:09,670 - INFO - Read: Rank: 188, Name: Casper
+2024-10-01 20:40:09,758 - INFO - Read: Rank: 189, Name: Travala.com
+2024-10-01 20:40:09,834 - INFO - Read: Rank: 190, Name: PAX Gold
+2024-10-01 20:40:09,913 - INFO - Read: Rank: 191, Name: Function X
+2024-10-01 20:40:09,988 - INFO - Read: Rank: 192, Name: Streamr
+2024-10-01 20:40:10,083 - INFO - Read: Rank: 193, Name: Wanchain
+2024-10-01 20:40:10,167 - INFO - Read: Rank: 194, Name: JUST
+2024-10-01 20:40:10,247 - INFO - Read: Rank: 195, Name: Steem
+2024-10-01 20:40:10,336 - INFO - Read: Rank: 196, Name: Hive
+2024-10-01 20:40:10,416 - INFO - Read: Rank: 197, Name: Utrust
+2024-10-01 20:40:10,499 - INFO - Read: Rank: 198, Name: DODO
+2024-10-01 20:40:10,578 - INFO - Read: Rank: 199, Name: Velas
+2024-10-01 20:40:10,658 - INFO - Read: Rank: 200, Name: Divi
+2024-10-01 20:40:10,898 - INFO - Clicked 'Load More'
+2024-10-01 20:40:12,920 - INFO - Loading data from row 201 to row 400
+2024-10-01 20:40:13,560 - INFO - Scrolled to row 201
+2024-10-01 20:40:24,364 - INFO - Scrolled to row 400
+2024-10-01 20:40:37,599 - INFO - Scrolled to row 201
+2024-10-01 20:40:48,808 - INFO - Scrolled to row 400
+2024-10-01 20:40:50,913 - INFO - Read: Rank: 201, Name: HEX
+2024-10-01 20:40:50,989 - INFO - Read: Rank: 202, Name: Egoras
+2024-10-01 20:40:51,072 - INFO - Read: Rank: 203, Name: Fei Protocol
+2024-10-01 20:40:51,152 - INFO - Read: Rank: 204, Name: Wrapped BNB
+2024-10-01 20:40:51,230 - INFO - Read: Rank: 205, Name: SafeMoon
+2024-10-01 20:40:51,307 - INFO - Read: Rank: 206, Name: Counos X
+2024-10-01 20:40:51,395 - INFO - Read: Rank: 207, Name: INO COIN
+2024-10-01 20:40:51,467 - INFO - Read: Rank: 208, Name: Creditcoin
+2024-10-01 20:40:51,543 - INFO - Read: Rank: 209, Name: Huobi BTC
+2024-10-01 20:40:51,615 - INFO - Read: Rank: 210, Name: The Transfer Token
+2024-10-01 20:40:51,687 - INFO - Read: Rank: 211, Name: stETH (Lido)
+2024-10-01 20:40:51,760 - INFO - Read: Rank: 212, Name: Liquity USD
+2024-10-01 20:40:51,918 - INFO - Read: Rank: 213, Name: WhiteCoin
+2024-10-01 20:40:51,989 - INFO - Read: Rank: 214, Name: DeFiChain
+2024-10-01 20:40:52,060 - INFO - Read: Rank: 215, Name: Symbol
+2024-10-01 20:40:52,128 - INFO - Read: Rank: 216, Name: Pirate Chain
+2024-10-01 20:40:52,209 - INFO - Read: Rank: 217, Name: Bitcoin Cash ABC
+2024-10-01 20:40:52,279 - INFO - Read: Rank: 218, Name: Venus BNB
+2024-10-01 20:40:52,348 - INFO - Read: Rank: 219, Name: NXM
+2024-10-01 20:40:52,417 - INFO - Read: Rank: 220, Name: Zelwin
+2024-10-01 20:40:52,498 - INFO - Read: Rank: 221, Name: botXcoin
+2024-10-01 20:40:52,577 - INFO - Read: Rank: 222, Name: Bitpanda Ecosystem Token
+2024-10-01 20:40:52,645 - INFO - Read: Rank: 223, Name: Orbit Chain
+2024-10-01 20:40:52,719 - INFO - Read: Rank: 224, Name: HedgeTrade
+2024-10-01 20:40:52,801 - INFO - Read: Rank: 225, Name: ECOMI
+2024-10-01 20:40:52,872 - INFO - Read: Rank: 226, Name: Mirror Protocol
+2024-10-01 20:40:52,941 - INFO - Read: Rank: 227, Name: ASD (BTMX)
+2024-10-01 20:40:53,016 - INFO - Read: Rank: 228, Name: Hellenic Coin
+2024-10-01 20:40:53,084 - INFO - Read: Rank: 229, Name: yOUcash
+2024-10-01 20:40:53,151 - INFO - Read: Rank: 230, Name: Akash Network
+2024-10-01 20:40:53,220 - INFO - Read: Rank: 231, Name: Persistence
+2024-10-01 20:40:53,293 - INFO - Read: Rank: 232, Name: Axie Infinity
+2024-10-01 20:40:53,362 - INFO - Read: Rank: 233, Name: Klever
+2024-10-01 20:40:53,431 - INFO - Read: Rank: 234, Name: Pundi X[new]
+2024-10-01 20:40:53,498 - INFO - Read: Rank: 235, Name: Sologenic
+2024-10-01 20:40:53,571 - INFO - Read: Rank: 236, Name: Anchor Protocol
+2024-10-01 20:40:53,640 - INFO - Read: Rank: 237, Name: TitanSwap
+2024-10-01 20:40:53,707 - INFO - Read: Rank: 238, Name: Doctors Coin
+2024-10-01 20:40:53,773 - INFO - Read: Rank: 239, Name: Raydium
+2024-10-01 20:40:53,849 - INFO - Read: Rank: 240, Name: Keep Network
+2024-10-01 20:40:53,917 - INFO - Read: Rank: 241, Name: Orion Protocol
+2024-10-01 20:40:53,986 - INFO - Read: Rank: 242, Name: Toko Token
+2024-10-01 20:40:54,060 - INFO - Read: Rank: 243, Name: sUSD
+2024-10-01 20:40:54,137 - INFO - Read: Rank: 244, Name: Tribe
+2024-10-01 20:40:54,206 - INFO - Read: Rank: 245, Name: Venus BTC
+2024-10-01 20:40:54,278 - INFO - Read: Rank: 246, Name: Frax
+2024-10-01 20:40:54,355 - INFO - Read: Rank: 247, Name: MVL
+2024-10-01 20:40:54,437 - INFO - Read: Rank: 248, Name: Ampleforth Governance Token
+2024-10-01 20:40:54,510 - INFO - Read: Rank: 249, Name: KLAYswap Protocol
+2024-10-01 20:40:54,591 - INFO - Read: Rank: 250, Name: Sapphire
+2024-10-01 20:40:54,690 - INFO - Read: Rank: 251, Name: MATH
+2024-10-01 20:40:54,762 - INFO - Read: Rank: 252, Name: Bytecoin
+2024-10-01 20:40:54,840 - INFO - Read: Rank: 253, Name: CRYPTO20
+2024-10-01 20:40:54,918 - INFO - Read: Rank: 254, Name: Sun (New)
+2024-10-01 20:40:54,994 - INFO - Read: Rank: 255, Name: Electroneum
+2024-10-01 20:40:55,074 - INFO - Read: Rank: 256, Name: Newscrypto
+2024-10-01 20:40:55,158 - INFO - Read: Rank: 257, Name: STASIS EURO
+2024-10-01 20:40:55,234 - INFO - Read: Rank: 258, Name: XeniosCoin
+2024-10-01 20:40:55,313 - INFO - Read: Rank: 259, Name: Gitcoin
+2024-10-01 20:40:55,392 - INFO - Read: Rank: 260, Name: RChain
+2024-10-01 20:40:55,474 - INFO - Read: Rank: 261, Name: Elitium
+2024-10-01 20:40:55,555 - INFO - Read: Rank: 262, Name: Mobilian Coin
+2024-10-01 20:40:55,625 - INFO - Read: Rank: 263, Name: Venus USDC
+2024-10-01 20:40:55,698 - INFO - Read: Rank: 264, Name: BarnBridge
+2024-10-01 20:40:55,770 - INFO - Read: Rank: 265, Name: Dawn Protocol
+2024-10-01 20:40:55,840 - INFO - Read: Rank: 266, Name: Perpetual Protocol
+2024-10-01 20:40:55,906 - INFO - Read: Rank: 267, Name: COTI
+2024-10-01 20:40:55,971 - INFO - Read: Rank: 268, Name: Ark
+2024-10-01 20:40:56,045 - INFO - Read: Rank: 269, Name: MediBloc
+2024-10-01 20:40:56,112 - INFO - Read: Rank: 270, Name: Centrality
+2024-10-01 20:40:56,180 - INFO - Read: Rank: 271, Name: Dero
+2024-10-01 20:40:56,247 - INFO - Read: Rank: 272, Name: Bitball Treasure
+2024-10-01 20:40:56,319 - INFO - Read: Rank: 273, Name: Everipedia
+2024-10-01 20:40:56,385 - INFO - Read: Rank: 274, Name: MonaCoin
+2024-10-01 20:40:56,453 - INFO - Read: Rank: 275, Name: Cream Finance
+2024-10-01 20:40:56,521 - INFO - Read: Rank: 276, Name: Polymath
+2024-10-01 20:40:56,590 - INFO - Read: Rank: 277, Name: Constellation
+2024-10-01 20:40:56,657 - INFO - Read: Rank: 278, Name: Audius
+2024-10-01 20:40:56,735 - INFO - Read: Rank: 279, Name: GNY
+2024-10-01 20:40:56,812 - INFO - Read: Rank: 280, Name: PAC Protocol
+2024-10-01 20:40:56,879 - INFO - Read: Rank: 281, Name: Bytom
+2024-10-01 20:40:56,950 - INFO - Read: Rank: 282, Name: Rocket Pool
+2024-10-01 20:40:57,022 - INFO - Read: Rank: 283, Name: Wrapped NXM
+2024-10-01 20:40:57,098 - INFO - Read: Rank: 284, Name: Metal
+2024-10-01 20:40:57,169 - INFO - Read: Rank: 285, Name: inSure DeFi
+2024-10-01 20:40:57,249 - INFO - Read: Rank: 286, Name: Alchemix
+2024-10-01 20:40:57,327 - INFO - Read: Rank: 287, Name: OriginTrail
+2024-10-01 20:40:57,402 - INFO - Read: Rank: 288, Name: Radix
+2024-10-01 20:40:57,471 - INFO - Read: Rank: 289, Name: Linear
+2024-10-01 20:40:57,544 - INFO - Read: Rank: 290, Name: NewYork Exchange
+2024-10-01 20:40:57,622 - INFO - Read: Rank: 291, Name: Oxygen
+2024-10-01 20:40:57,692 - INFO - Read: Rank: 292, Name: aelf
+2024-10-01 20:40:57,766 - INFO - Read: Rank: 293, Name: ZEON
+2024-10-01 20:40:57,838 - INFO - Read: Rank: 294, Name: Venus XVS
+2024-10-01 20:40:57,911 - INFO - Read: Rank: 295, Name: Automata Network
+2024-10-01 20:40:57,984 - INFO - Read: Rank: 296, Name: Rally
+2024-10-01 20:40:58,057 - INFO - Read: Rank: 297, Name: Rakon
+2024-10-01 20:40:58,124 - INFO - Read: Rank: 298, Name: Venus ETH
+2024-10-01 20:40:58,198 - INFO - Read: Rank: 299, Name: Tokenlon Network Token
+2024-10-01 20:40:58,277 - INFO - Read: Rank: 300, Name: Sport and Leisure
+2024-10-01 20:40:58,350 - INFO - Read: Rank: 301, Name: Vai
+2024-10-01 20:40:58,425 - INFO - Read: Rank: 302, Name: LUKSO
+2024-10-01 20:40:58,493 - INFO - Read: Rank: 303, Name: IRISnet
+2024-10-01 20:40:58,563 - INFO - Read: Rank: 304, Name: district0x
+2024-10-01 20:40:58,638 - INFO - Read: Rank: 305, Name: Oasis Network
+2024-10-01 20:40:58,728 - INFO - Read: Rank: 306, Name: Metadium
+2024-10-01 20:40:58,817 - INFO - Read: Rank: 307, Name: DAO Maker
+2024-10-01 20:40:58,921 - INFO - Read: Rank: 308, Name: Badger DAO
+2024-10-01 20:40:59,001 - INFO - Read: Rank: 309, Name: Handshake
+2024-10-01 20:40:59,080 - INFO - Read: Rank: 310, Name: KardiaChain
+2024-10-01 20:40:59,164 - INFO - Read: Rank: 311, Name: QuarkChain
+2024-10-01 20:40:59,244 - INFO - Read: Rank: 312, Name: Secret
+2024-10-01 20:40:59,313 - INFO - Read: Rank: 313, Name: Trust Wallet Token
+2024-10-01 20:40:59,384 - INFO - Read: Rank: 314, Name: RedFOX Labs
+2024-10-01 20:40:59,461 - INFO - Read: Rank: 315, Name: Chimpion
+2024-10-01 20:40:59,544 - INFO - Read: Rank: 316, Name: Ethernity Chain
+2024-10-01 20:40:59,623 - INFO - Read: Rank: 317, Name: SafePal
+2024-10-01 20:40:59,715 - INFO - Read: Rank: 318, Name: Populous
+2024-10-01 20:40:59,795 - INFO - Read: Rank: 319, Name: Energi
+2024-10-01 20:40:59,870 - INFO - Read: Rank: 320, Name: cVault.finance
+2024-10-01 20:40:59,940 - INFO - Read: Rank: 321, Name: Beefy.Finance
+2024-10-01 20:41:00,014 - INFO - Read: Rank: 322, Name: Qcash
+2024-10-01 20:41:00,084 - INFO - Read: Rank: 323, Name: Render Token
+2024-10-01 20:41:00,163 - INFO - Read: Rank: 324, Name: Polkastarter
+2024-10-01 20:41:00,236 - INFO - Read: Rank: 325, Name: RSK Smart Bitcoin
+2024-10-01 20:41:00,316 - INFO - Read: Rank: 326, Name: Bonfida
+2024-10-01 20:41:00,393 - INFO - Read: Rank: 327, Name: XYO
+2024-10-01 20:41:00,469 - INFO - Read: Rank: 328, Name: Komodo
+2024-10-01 20:41:00,546 - INFO - Read: Rank: 329, Name: Alien Worlds
+2024-10-01 20:41:00,622 - INFO - Read: Rank: 330, Name: MXC
+2024-10-01 20:41:00,693 - INFO - Read: Rank: 331, Name: QuickSwap
+2024-10-01 20:41:00,769 - INFO - Read: Rank: 332, Name: DFI.Money
+2024-10-01 20:41:00,854 - INFO - Read: Rank: 333, Name: SONM
+2024-10-01 20:41:00,928 - INFO - Read: Rank: 334, Name: Sora
+2024-10-01 20:41:01,010 - INFO - Read: Rank: 335, Name: Kin
+2024-10-01 20:41:01,088 - INFO - Read: Rank: 336, Name: PEAKDEFI
+2024-10-01 20:41:01,156 - INFO - Read: Rank: 337, Name: Tellor
+2024-10-01 20:41:01,241 - INFO - Read: Rank: 338, Name: Syscoin
+2024-10-01 20:41:01,309 - INFO - Read: Rank: 339, Name: Syntropy
+2024-10-01 20:41:01,378 - INFO - Read: Rank: 340, Name: Super Zero Protocol
+2024-10-01 20:41:01,445 - INFO - Read: Rank: 341, Name: TROY
+2024-10-01 20:41:01,514 - INFO - Read: Rank: 342, Name: MyNeighborAlice
+2024-10-01 20:41:01,584 - INFO - Read: Rank: 343, Name: PARSIQ
+2024-10-01 20:41:01,655 - INFO - Read: Rank: 344, Name: Basid Coin
+2024-10-01 20:41:01,729 - INFO - Read: Rank: 345, Name: TrustSwap
+2024-10-01 20:41:01,803 - INFO - Read: Rank: 346, Name: Bloomzed Loyalty Club Ticket
+2024-10-01 20:41:01,880 - INFO - Read: Rank: 347, Name: Darma Cash
+2024-10-01 20:41:01,955 - INFO - Read: Rank: 348, Name: VerusCoin
+2024-10-01 20:41:02,027 - INFO - Read: Rank: 349, Name: Molecular Future
+2024-10-01 20:41:02,104 - INFO - Read: Rank: 350, Name: AllianceBlock
+2024-10-01 20:41:02,170 - INFO - Read: Rank: 351, Name: EFFORCE
+2024-10-01 20:41:02,243 - INFO - Read: Rank: 352, Name: Aion
+2024-10-01 20:41:02,329 - INFO - Read: Rank: 353, Name: Hifi Finance
+2024-10-01 20:41:02,412 - INFO - Read: Rank: 354, Name: DerivaDAO
+2024-10-01 20:41:02,494 - INFO - Read: Rank: 355, Name: Chromia
+2024-10-01 20:41:02,576 - INFO - Read: Rank: 356, Name: Firo
+2024-10-01 20:41:02,664 - INFO - Read: Rank: 357, Name: Hathor
+2024-10-01 20:41:02,763 - INFO - Read: Rank: 358, Name: Kleros
+2024-10-01 20:41:02,857 - INFO - Read: Rank: 359, Name: DxChain Token
+2024-10-01 20:41:02,937 - INFO - Read: Rank: 360, Name: Power Ledger
+2024-10-01 20:41:03,024 - INFO - Read: Rank: 361, Name: RAMP
+2024-10-01 20:41:03,124 - INFO - Read: Rank: 362, Name: Hoge Finance
+2024-10-01 20:41:03,208 - INFO - Read: Rank: 363, Name: ankrETH
+2024-10-01 20:41:03,282 - INFO - Read: Rank: 364, Name: MimbleWimbleCoin
+2024-10-01 20:41:03,349 - INFO - Read: Rank: 365, Name: Apollo Currency
+2024-10-01 20:41:03,417 - INFO - Read: Rank: 366, Name: Sentinel
+2024-10-01 20:41:03,488 - INFO - Read: Rank: 367, Name: USDX [Kava]
+2024-10-01 20:41:03,568 - INFO - Read: Rank: 368, Name: KARMA
+2024-10-01 20:41:03,639 - INFO - Read: Rank: 369, Name: Venus BUSD
+2024-10-01 20:41:03,710 - INFO - Read: Rank: 370, Name: BORA
+2024-10-01 20:41:03,782 - INFO - Read: Rank: 371, Name: ASTA
+2024-10-01 20:41:03,861 - INFO - Read: Rank: 372, Name: Small Love Potion
+2024-10-01 20:41:03,942 - INFO - Read: Rank: 373, Name: CUMROCKET
+2024-10-01 20:41:04,019 - INFO - Read: Rank: 374, Name: Oxen
+2024-10-01 20:41:04,088 - INFO - Read: Rank: 375, Name: APENFT
+2024-10-01 20:41:04,164 - INFO - Read: Rank: 376, Name: AXEL
+2024-10-01 20:41:04,260 - INFO - Read: Rank: 377, Name: Flamingo
+2024-10-01 20:41:04,356 - INFO - Read: Rank: 378, Name: GlitzKoin
+2024-10-01 20:41:04,457 - INFO - Read: Rank: 379, Name: Neutrino Token
+2024-10-01 20:41:04,557 - INFO - Read: Rank: 380, Name: Celo Dollar
+2024-10-01 20:41:04,659 - INFO - Read: Rank: 381, Name: Juggernaut
+2024-10-01 20:41:04,755 - INFO - Read: Rank: 382, Name: ReddCoin
+2024-10-01 20:41:04,839 - INFO - Read: Rank: 383, Name: Gala
+2024-10-01 20:41:04,915 - INFO - Read: Rank: 384, Name: Zenon
+2024-10-01 20:41:04,995 - INFO - Read: Rank: 385, Name: Carry
+2024-10-01 20:41:05,071 - INFO - Read: Rank: 386, Name: MX Token
+2024-10-01 20:41:05,149 - INFO - Read: Rank: 387, Name: Gas
+2024-10-01 20:41:05,236 - INFO - Read: Rank: 388, Name: Akropolis
+2024-10-01 20:41:05,315 - INFO - Read: Rank: 389, Name: HARD Protocol
+2024-10-01 20:41:05,391 - INFO - Read: Rank: 390, Name: Kadena
+2024-10-01 20:41:05,466 - INFO - Read: Rank: 391, Name: Litentry
+2024-10-01 20:41:05,536 - INFO - Read: Rank: 392, Name: FIO Protocol
+2024-10-01 20:41:05,607 - INFO - Read: Rank: 393, Name: Ellipsis
+2024-10-01 20:41:05,677 - INFO - Read: Rank: 394, Name: Elastos
+2024-10-01 20:41:05,749 - INFO - Read: Rank: 395, Name: Request
+2024-10-01 20:41:05,826 - INFO - Read: Rank: 396, Name: Belt Finance
+2024-10-01 20:41:05,908 - INFO - Read: Rank: 397, Name: ShareToken
+2024-10-01 20:41:05,987 - INFO - Read: Rank: 398, Name: Veritaseum
+2024-10-01 20:41:06,056 - INFO - Read: Rank: 399, Name: xDai
+2024-10-01 20:41:06,128 - INFO - Read: Rank: 400, Name: Student Coin
+2024-10-01 20:41:06,331 - INFO - Clicked 'Load More'
+2024-10-01 20:41:08,373 - INFO - Loading data from row 401 to row 600
+2024-10-01 20:41:09,021 - INFO - Scrolled to row 401
+2024-10-01 20:41:17,430 - INFO - Starting coin scraping process
+2024-10-01 20:41:34,408 - INFO - Slowly scrolled to the bottom of the page
+2024-10-01 20:41:45,978 - INFO - Slowly scrolled to the top of the page
+2024-10-01 20:41:45,993 - INFO - Loading data from row 1 to row 200
+2024-10-01 20:41:46,638 - INFO - Scrolled to row 1
+2024-10-01 20:41:57,633 - INFO - Scrolled to row 200
+2024-10-01 20:42:10,794 - INFO - Scrolled to row 1
+2024-10-01 20:42:21,855 - INFO - Scrolled to row 200
+2024-10-01 20:42:23,997 - INFO - Read: Rank: 1, Name: Bitcoin
+2024-10-01 20:42:24,079 - INFO - Read: Rank: 2, Name: Ethereum
+2024-10-01 20:42:24,157 - INFO - Read: Rank: 3, Name: Tether
+2024-10-01 20:42:24,244 - INFO - Read: Rank: 4, Name: Binance Coin
+2024-10-01 20:42:24,325 - INFO - Read: Rank: 5, Name: Cardano
+2024-10-01 20:42:24,423 - INFO - Read: Rank: 6, Name: Dogecoin
+2024-10-01 20:42:24,514 - INFO - Read: Rank: 7, Name: XRP
+2024-10-01 20:42:24,600 - INFO - Read: Rank: 8, Name: USD Coin
+2024-10-01 20:42:24,686 - INFO - Read: Rank: 9, Name: Polkadot
+2024-10-01 20:42:24,766 - INFO - Read: Rank: 10, Name: Binance USD
+2024-10-01 20:42:24,860 - INFO - Read: Rank: 11, Name: Uniswap
+2024-10-01 20:42:24,946 - INFO - Read: Rank: 12, Name: Bitcoin Cash
+2024-10-01 20:42:25,044 - INFO - Read: Rank: 13, Name: Litecoin
+2024-10-01 20:42:25,138 - INFO - Read: Rank: 14, Name: Solana
+2024-10-01 20:42:25,226 - INFO - Read: Rank: 15, Name: Chainlink
+2024-10-01 20:42:25,303 - INFO - Read: Rank: 16, Name: Polygon
+2024-10-01 20:42:25,384 - INFO - Read: Rank: 17, Name: THETA
+2024-10-01 20:42:25,467 - INFO - Read: Rank: 18, Name: Wrapped Bitcoin
+2024-10-01 20:42:25,557 - INFO - Read: Rank: 19, Name: Stellar
+2024-10-01 20:42:25,629 - INFO - Read: Rank: 20, Name: Internet Computer
+2024-10-01 20:42:25,705 - INFO - Read: Rank: 21, Name: Dai
+2024-10-01 20:42:25,782 - INFO - Read: Rank: 22, Name: VeChain
+2024-10-01 20:42:25,876 - INFO - Read: Rank: 23, Name: Ethereum Classic
+2024-10-01 20:42:25,950 - INFO - Read: Rank: 24, Name: TRON
+2024-10-01 20:42:26,030 - INFO - Read: Rank: 25, Name: Filecoin
+2024-10-01 20:42:26,117 - INFO - Read: Rank: 26, Name: Monero
+2024-10-01 20:42:26,197 - INFO - Read: Rank: 27, Name: EOS
+2024-10-01 20:42:26,270 - INFO - Read: Rank: 28, Name: SHIBA INU
+2024-10-01 20:42:26,342 - INFO - Read: Rank: 29, Name: Crypto.com Coin
+2024-10-01 20:42:26,412 - INFO - Read: Rank: 30, Name: Amp
+2024-10-01 20:42:26,488 - INFO - Read: Rank: 31, Name: Aave
+2024-10-01 20:42:26,567 - INFO - Read: Rank: 32, Name: Algorand
+2024-10-01 20:42:26,634 - INFO - Read: Rank: 33, Name: Bitcoin BEP2
+2024-10-01 20:42:26,718 - INFO - Read: Rank: 34, Name: Klaytn
+2024-10-01 20:42:26,793 - INFO - Read: Rank: 35, Name: Bitcoin SV
+2024-10-01 20:42:26,869 - INFO - Read: Rank: 36, Name: PancakeSwap
+2024-10-01 20:42:26,944 - INFO - Read: Rank: 37, Name: FTX Token
+2024-10-01 20:42:27,012 - INFO - Read: Rank: 38, Name: Terra
+2024-10-01 20:42:27,080 - INFO - Read: Rank: 39, Name: Theta Fuel
+2024-10-01 20:42:27,151 - INFO - Read: Rank: 40, Name: Neo
+2024-10-01 20:42:27,228 - INFO - Read: Rank: 41, Name: Tezos
+2024-10-01 20:42:27,298 - INFO - Read: Rank: 42, Name: IOTA
+2024-10-01 20:42:27,371 - INFO - Read: Rank: 43, Name: Cosmos
+2024-10-01 20:42:27,451 - INFO - Read: Rank: 44, Name: Maker
+2024-10-01 20:42:27,525 - INFO - Read: Rank: 45, Name: UNUS SED LEO
+2024-10-01 20:42:27,595 - INFO - Read: Rank: 46, Name: TerraUSD
+2024-10-01 20:42:27,667 - INFO - Read: Rank: 47, Name: Avalanche
+2024-10-01 20:42:27,740 - INFO - Read: Rank: 48, Name: Huobi Token
+2024-10-01 20:42:27,828 - INFO - Read: Rank: 49, Name: BitTorrent
+2024-10-01 20:42:27,900 - INFO - Read: Rank: 50, Name: Decred
+2024-10-01 20:42:27,985 - INFO - Read: Rank: 51, Name: The Graph
+2024-10-01 20:42:28,056 - INFO - Read: Rank: 52, Name: Hedera Hashgraph
+2024-10-01 20:42:28,126 - INFO - Read: Rank: 53, Name: Kusama
+2024-10-01 20:42:28,192 - INFO - Read: Rank: 54, Name: Waves
+2024-10-01 20:42:28,264 - INFO - Read: Rank: 55, Name: THORChain
+2024-10-01 20:42:28,339 - INFO - Read: Rank: 56, Name: TrueUSD
+2024-10-01 20:42:28,414 - INFO - Read: Rank: 57, Name: Chiliz
+2024-10-01 20:42:28,507 - INFO - Read: Rank: 58, Name: Compound
+2024-10-01 20:42:28,600 - INFO - Read: Rank: 59, Name: Dash
+2024-10-01 20:42:28,672 - INFO - Read: Rank: 60, Name: Zcash
+2024-10-01 20:42:28,751 - INFO - Read: Rank: 61, Name: Celsius
+2024-10-01 20:42:28,819 - INFO - Read: Rank: 62, Name: Telcoin
+2024-10-01 20:42:28,894 - INFO - Read: Rank: 63, Name: Elrond
+2024-10-01 20:42:28,974 - INFO - Read: Rank: 64, Name: yearn.finance
+2024-10-01 20:42:29,062 - INFO - Read: Rank: 65, Name: Holo
+2024-10-01 20:42:29,131 - INFO - Read: Rank: 66, Name: NEM
+2024-10-01 20:42:29,201 - INFO - Read: Rank: 67, Name: Helium
+2024-10-01 20:42:29,268 - INFO - Read: Rank: 68, Name: Quant
+2024-10-01 20:42:29,340 - INFO - Read: Rank: 69, Name: SushiSwap
+2024-10-01 20:42:29,410 - INFO - Read: Rank: 70, Name: Paxos Standard
+2024-10-01 20:42:29,476 - INFO - Read: Rank: 71, Name: Celo
+2024-10-01 20:42:29,544 - INFO - Read: Rank: 72, Name: XinFin Network
+2024-10-01 20:42:29,613 - INFO - Read: Rank: 73, Name: Enjin Coin
+2024-10-01 20:42:29,680 - INFO - Read: Rank: 74, Name: Zilliqa
+2024-10-01 20:42:29,747 - INFO - Read: Rank: 75, Name: Basic Attention Token
+2024-10-01 20:42:29,813 - INFO - Read: Rank: 76, Name: NEAR Protocol
+2024-10-01 20:42:29,884 - INFO - Read: Rank: 77, Name: Mdex
+2024-10-01 20:42:29,951 - INFO - Read: Rank: 78, Name: Stacks
+2024-10-01 20:42:30,023 - INFO - Read: Rank: 79, Name: Decentraland
+2024-10-01 20:42:30,107 - INFO - Read: Rank: 80, Name: Synthetix
+2024-10-01 20:42:30,183 - INFO - Read: Rank: 81, Name: Bitcoin Gold
+2024-10-01 20:42:30,256 - INFO - Read: Rank: 82, Name: Nexo
+2024-10-01 20:42:30,330 - INFO - Read: Rank: 83, Name: Harmony
+2024-10-01 20:42:30,421 - INFO - Read: Rank: 84, Name: HUSD
+2024-10-01 20:42:30,497 - INFO - Read: Rank: 85, Name: Revain
+2024-10-01 20:42:30,568 - INFO - Read: Rank: 86, Name: Bancor
+2024-10-01 20:42:30,640 - INFO - Read: Rank: 87, Name: Horizen
+2024-10-01 20:42:30,715 - INFO - Read: Rank: 88, Name: Nano
+2024-10-01 20:42:30,793 - INFO - Read: Rank: 89, Name: DigiByte
+2024-10-01 20:42:30,865 - INFO - Read: Rank: 90, Name: Qtum
+2024-10-01 20:42:30,935 - INFO - Read: Rank: 91, Name: OKB
+2024-10-01 20:42:31,009 - INFO - Read: Rank: 92, Name: Curve DAO Token
+2024-10-01 20:42:31,080 - INFO - Read: Rank: 93, Name: KuCoin Token
+2024-10-01 20:42:31,147 - INFO - Read: Rank: 94, Name: Fantom
+2024-10-01 20:42:31,219 - INFO - Read: Rank: 95, Name: Ontology
+2024-10-01 20:42:31,289 - INFO - Read: Rank: 96, Name: Siacoin
+2024-10-01 20:42:31,357 - INFO - Read: Rank: 97, Name: 0x
+2024-10-01 20:42:31,426 - INFO - Read: Rank: 98, Name: OMG Network
+2024-10-01 20:42:31,499 - INFO - Read: Rank: 99, Name: UMA
+2024-10-01 20:42:31,564 - INFO - Read: Rank: 100, Name: BakeryToken
+2024-10-01 20:42:31,631 - INFO - Read: Rank: 101, Name: Voyager Token
+2024-10-01 20:42:31,702 - INFO - Read: Rank: 102, Name: SwissBorg
+2024-10-01 20:42:31,779 - INFO - Read: Rank: 103, Name: Ankr
+2024-10-01 20:42:31,854 - INFO - Read: Rank: 104, Name: Ravencoin
+2024-10-01 20:42:31,925 - INFO - Read: Rank: 105, Name: ICON
+2024-10-01 20:42:31,997 - INFO - Read: Rank: 106, Name: 1inch
+2024-10-01 20:42:32,072 - INFO - Read: Rank: 107, Name: Livepeer
+2024-10-01 20:42:32,148 - INFO - Read: Rank: 108, Name: Neutrino USD
+2024-10-01 20:42:32,239 - INFO - Read: Rank: 109, Name: Bitcoin Diamond
+2024-10-01 20:42:32,333 - INFO - Read: Rank: 110, Name: renBTC
+2024-10-01 20:42:32,410 - INFO - Read: Rank: 111, Name: Flow
+2024-10-01 20:42:32,483 - INFO - Read: Rank: 112, Name: Verge
+2024-10-01 20:42:32,558 - INFO - Read: Rank: 113, Name: Ren
+2024-10-01 20:42:32,630 - INFO - Read: Rank: 114, Name: Arweave
+2024-10-01 20:42:32,701 - INFO - Read: Rank: 115, Name: WazirX
+2024-10-01 20:42:32,774 - INFO - Read: Rank: 116, Name: Loopring
+2024-10-01 20:42:32,845 - INFO - Read: Rank: 117, Name: Nervos Network
+2024-10-01 20:42:32,920 - INFO - Read: Rank: 118, Name: IOST
+2024-10-01 20:42:32,995 - INFO - Read: Rank: 119, Name: MaidSafeCoin
+2024-10-01 20:42:33,066 - INFO - Read: Rank: 120, Name: WINkLink
+2024-10-01 20:42:33,144 - INFO - Read: Rank: 121, Name: Reserve Rights
+2024-10-01 20:42:33,218 - INFO - Read: Rank: 122, Name: Kyber Network Crystal Legacy
+2024-10-01 20:42:33,284 - INFO - Read: Rank: 123, Name: Gnosis
+2024-10-01 20:42:33,350 - INFO - Read: Rank: 124, Name: Lisk
+2024-10-01 20:42:33,420 - INFO - Read: Rank: 125, Name: Ocean Protocol
+2024-10-01 20:42:33,485 - INFO - Read: Rank: 126, Name: Golem
+2024-10-01 20:42:33,555 - INFO - Read: Rank: 127, Name: GateToken
+2024-10-01 20:42:33,624 - INFO - Read: Rank: 128, Name: Kava.io
+2024-10-01 20:42:33,698 - INFO - Read: Rank: 129, Name: Wootrade
+2024-10-01 20:42:33,767 - INFO - Read: Rank: 130, Name: Mina
+2024-10-01 20:42:33,833 - INFO - Read: Rank: 131, Name: iExec RLC
+2024-10-01 20:42:33,901 - INFO - Read: Rank: 132, Name: VeThor Token
+2024-10-01 20:42:33,974 - INFO - Read: Rank: 133, Name: SKALE Network
+2024-10-01 20:42:34,040 - INFO - Read: Rank: 134, Name: Dent
+2024-10-01 20:42:34,107 - INFO - Read: Rank: 135, Name: Conflux Network
+2024-10-01 20:42:34,176 - INFO - Read: Rank: 136, Name: Gemini Dollar
+2024-10-01 20:42:34,251 - INFO - Read: Rank: 137, Name: Origin Protocol
+2024-10-01 20:42:34,330 - INFO - Read: Rank: 138, Name: Reef
+2024-10-01 20:42:34,398 - INFO - Read: Rank: 139, Name: Ergo
+2024-10-01 20:42:34,465 - INFO - Read: Rank: 140, Name: Prometeus
+2024-10-01 20:42:34,536 - INFO - Read: Rank: 141, Name: Venus
+2024-10-01 20:42:34,603 - INFO - Read: Rank: 142, Name: Storj
+2024-10-01 20:42:34,669 - INFO - Read: Rank: 143, Name: Energy Web Token
+2024-10-01 20:42:34,738 - INFO - Read: Rank: 144, Name: Band Protocol
+2024-10-01 20:42:34,808 - INFO - Read: Rank: 145, Name: Cartesi
+2024-10-01 20:42:34,878 - INFO - Read: Rank: 146, Name: Swipe
+2024-10-01 20:42:34,944 - INFO - Read: Rank: 147, Name: Uquid Coin
+2024-10-01 20:42:35,014 - INFO - Read: Rank: 148, Name: MCO
+2024-10-01 20:42:35,080 - INFO - Read: Rank: 149, Name: FUNToken
+2024-10-01 20:42:35,145 - INFO - Read: Rank: 150, Name: Orchid
+2024-10-01 20:42:35,218 - INFO - Read: Rank: 151, Name: Stratis
+2024-10-01 20:42:35,293 - INFO - Read: Rank: 152, Name: LockTrip
+2024-10-01 20:42:35,360 - INFO - Read: Rank: 153, Name: ABBC Coin
+2024-10-01 20:42:35,429 - INFO - Read: Rank: 154, Name: Bitcoin Standard Hashrate Token
+2024-10-01 20:42:35,495 - INFO - Read: Rank: 155, Name: ZKSwap
+2024-10-01 20:42:35,564 - INFO - Read: Rank: 156, Name: WAX
+2024-10-01 20:42:35,632 - INFO - Read: Rank: 157, Name: Status
+2024-10-01 20:42:35,697 - INFO - Read: Rank: 158, Name: NKN
+2024-10-01 20:42:35,766 - INFO - Read: Rank: 159, Name: Ontology Gas
+2024-10-01 20:42:35,838 - INFO - Read: Rank: 160, Name: IoTeX
+2024-10-01 20:42:35,905 - INFO - Read: Rank: 161, Name: NuCypher
+2024-10-01 20:42:35,971 - INFO - Read: Rank: 162, Name: Injective Protocol
+2024-10-01 20:42:36,040 - INFO - Read: Rank: 163, Name: Celer Network
+2024-10-01 20:42:36,109 - INFO - Read: Rank: 164, Name: Unibright
+2024-10-01 20:42:36,175 - INFO - Read: Rank: 165, Name: Fetch.ai
+2024-10-01 20:42:36,247 - INFO - Read: Rank: 166, Name: Serum
+2024-10-01 20:42:36,315 - INFO - Read: Rank: 167, Name: Numeraire
+2024-10-01 20:42:36,389 - INFO - Read: Rank: 168, Name: StormX
+2024-10-01 20:42:36,465 - INFO - Read: Rank: 169, Name: Aragon
+2024-10-01 20:42:36,536 - INFO - Read: Rank: 170, Name: Augur
+2024-10-01 20:42:36,601 - INFO - Read: Rank: 171, Name: Hxro
+2024-10-01 20:42:36,669 - INFO - Read: Rank: 172, Name: ZB Token
+2024-10-01 20:42:36,738 - INFO - Read: Rank: 173, Name: SingularityNET
+2024-10-01 20:42:36,806 - INFO - Read: Rank: 174, Name: The Sandbox
+2024-10-01 20:42:36,873 - INFO - Read: Rank: 175, Name: Ultra
+2024-10-01 20:42:36,943 - INFO - Read: Rank: 176, Name: Civic
+2024-10-01 20:42:37,010 - INFO - Read: Rank: 177, Name: BitShares
+2024-10-01 20:42:37,074 - INFO - Read: Rank: 178, Name: Ampleforth
+2024-10-01 20:42:37,140 - INFO - Read: Rank: 179, Name: Phala Network
+2024-10-01 20:42:37,212 - INFO - Read: Rank: 180, Name: TomoChain
+2024-10-01 20:42:37,283 - INFO - Read: Rank: 181, Name: Enzyme
+2024-10-01 20:42:37,350 - INFO - Read: Rank: 182, Name: Orbs
+2024-10-01 20:42:37,417 - INFO - Read: Rank: 183, Name: Balancer
+2024-10-01 20:42:37,485 - INFO - Read: Rank: 184, Name: RSK Infrastructure Framework
+2024-10-01 20:42:37,554 - INFO - Read: Rank: 185, Name: Strike
+2024-10-01 20:42:37,619 - INFO - Read: Rank: 186, Name: Ardor
+2024-10-01 20:42:37,689 - INFO - Read: Rank: 187, Name: Alpha Finance Lab
+2024-10-01 20:42:37,758 - INFO - Read: Rank: 188, Name: Casper
+2024-10-01 20:42:37,829 - INFO - Read: Rank: 189, Name: Travala.com
+2024-10-01 20:42:37,898 - INFO - Read: Rank: 190, Name: PAX Gold
+2024-10-01 20:42:37,972 - INFO - Read: Rank: 191, Name: Function X
+2024-10-01 20:42:38,043 - INFO - Read: Rank: 192, Name: Streamr
+2024-10-01 20:42:38,117 - INFO - Read: Rank: 193, Name: Wanchain
+2024-10-01 20:42:38,194 - INFO - Read: Rank: 194, Name: JUST
+2024-10-01 20:42:38,269 - INFO - Read: Rank: 195, Name: Steem
+2024-10-01 20:42:38,339 - INFO - Read: Rank: 196, Name: Hive
+2024-10-01 20:42:38,415 - INFO - Read: Rank: 197, Name: Utrust
+2024-10-01 20:42:38,484 - INFO - Read: Rank: 198, Name: DODO
+2024-10-01 20:42:38,584 - INFO - Read: Rank: 199, Name: Velas
+2024-10-01 20:42:38,668 - INFO - Read: Rank: 200, Name: Divi
+2024-10-01 20:42:38,817 - INFO - Clicked 'Load More'
+2024-10-01 20:42:40,850 - INFO - Loading data from row 201 to row 400
+2024-10-01 20:42:41,491 - INFO - Scrolled to row 201
+2024-10-01 20:42:52,410 - INFO - Scrolled to row 400
+2024-10-01 20:44:35,078 - INFO - Starting coin scraping process
+2024-10-01 20:44:52,510 - INFO - Slowly scrolled to the bottom of the page
+2024-10-01 20:45:03,984 - INFO - Slowly scrolled to the top of the page
+2024-10-01 20:45:04,009 - INFO - Loading data from row 1 to row 200
+2024-10-01 20:45:04,643 - INFO - Scrolled to row 1
+2024-10-01 20:45:15,839 - INFO - Scrolled to row 200
+2024-10-01 20:45:28,960 - INFO - Scrolled to row 1
+2024-10-01 20:45:39,590 - INFO - Scrolled to row 200
+2024-10-01 20:45:41,722 - INFO - Read: Rank: 1, Name: Bitcoin
+2024-10-01 20:45:41,796 - INFO - Read: Rank: 2, Name: Ethereum
+2024-10-01 20:45:41,868 - INFO - Read: Rank: 3, Name: Tether
+2024-10-01 20:45:41,959 - INFO - Read: Rank: 4, Name: Binance Coin
+2024-10-01 20:45:42,036 - INFO - Read: Rank: 5, Name: Cardano
+2024-10-01 20:45:42,125 - INFO - Read: Rank: 6, Name: Dogecoin
+2024-10-01 20:45:42,221 - INFO - Read: Rank: 7, Name: XRP
+2024-10-01 20:45:42,311 - INFO - Read: Rank: 8, Name: USD Coin
+2024-10-01 20:45:42,388 - INFO - Read: Rank: 9, Name: Polkadot
+2024-10-01 20:45:42,477 - INFO - Read: Rank: 10, Name: Binance USD
+2024-10-01 20:45:42,572 - INFO - Read: Rank: 11, Name: Uniswap
+2024-10-01 20:45:42,655 - INFO - Read: Rank: 12, Name: Bitcoin Cash
+2024-10-01 20:45:42,740 - INFO - Read: Rank: 13, Name: Litecoin
+2024-10-01 20:45:42,827 - INFO - Read: Rank: 14, Name: Solana
+2024-10-01 20:45:42,918 - INFO - Read: Rank: 15, Name: Chainlink
+2024-10-01 20:45:43,009 - INFO - Read: Rank: 16, Name: Polygon
+2024-10-01 20:45:43,102 - INFO - Read: Rank: 17, Name: THETA
+2024-10-01 20:45:43,179 - INFO - Read: Rank: 18, Name: Wrapped Bitcoin
+2024-10-01 20:45:43,266 - INFO - Read: Rank: 19, Name: Stellar
+2024-10-01 20:45:43,350 - INFO - Read: Rank: 20, Name: Internet Computer
+2024-10-01 20:45:43,425 - INFO - Read: Rank: 21, Name: Dai
+2024-10-01 20:45:43,500 - INFO - Read: Rank: 22, Name: VeChain
+2024-10-01 20:45:43,573 - INFO - Read: Rank: 23, Name: Ethereum Classic
+2024-10-01 20:45:43,644 - INFO - Read: Rank: 24, Name: TRON
+2024-10-01 20:45:43,727 - INFO - Read: Rank: 25, Name: Filecoin
+2024-10-01 20:45:43,803 - INFO - Read: Rank: 26, Name: Monero
+2024-10-01 20:45:43,888 - INFO - Read: Rank: 27, Name: EOS
+2024-10-01 20:45:43,973 - INFO - Read: Rank: 28, Name: SHIBA INU
+2024-10-01 20:45:44,047 - INFO - Read: Rank: 29, Name: Crypto.com Coin
+2024-10-01 20:45:44,123 - INFO - Read: Rank: 30, Name: Amp
+2024-10-01 20:45:44,205 - INFO - Read: Rank: 31, Name: Aave
+2024-10-01 20:45:44,281 - INFO - Read: Rank: 32, Name: Algorand
+2024-10-01 20:45:44,363 - INFO - Read: Rank: 33, Name: Bitcoin BEP2
+2024-10-01 20:45:44,459 - INFO - Read: Rank: 34, Name: Klaytn
+2024-10-01 20:45:44,538 - INFO - Read: Rank: 35, Name: Bitcoin SV
+2024-10-01 20:45:44,610 - INFO - Read: Rank: 36, Name: PancakeSwap
+2024-10-01 20:45:44,685 - INFO - Read: Rank: 37, Name: FTX Token
+2024-10-01 20:45:44,759 - INFO - Read: Rank: 38, Name: Terra
+2024-10-01 20:45:44,837 - INFO - Read: Rank: 39, Name: Theta Fuel
+2024-10-01 20:45:44,913 - INFO - Read: Rank: 40, Name: Neo
+2024-10-01 20:45:44,992 - INFO - Read: Rank: 41, Name: Tezos
+2024-10-01 20:45:45,068 - INFO - Read: Rank: 42, Name: IOTA
+2024-10-01 20:45:45,141 - INFO - Read: Rank: 43, Name: Cosmos
+2024-10-01 20:45:45,218 - INFO - Read: Rank: 44, Name: Maker
+2024-10-01 20:45:45,293 - INFO - Read: Rank: 45, Name: UNUS SED LEO
+2024-10-01 20:45:45,376 - INFO - Read: Rank: 46, Name: TerraUSD
+2024-10-01 20:45:45,458 - INFO - Read: Rank: 47, Name: Avalanche
+2024-10-01 20:45:45,532 - INFO - Read: Rank: 48, Name: Huobi Token
+2024-10-01 20:45:45,607 - INFO - Read: Rank: 49, Name: BitTorrent
+2024-10-01 20:45:45,682 - INFO - Read: Rank: 50, Name: Decred
+2024-10-01 20:45:45,761 - INFO - Read: Rank: 51, Name: The Graph
+2024-10-01 20:45:45,841 - INFO - Read: Rank: 52, Name: Hedera Hashgraph
+2024-10-01 20:45:45,923 - INFO - Read: Rank: 53, Name: Kusama
+2024-10-01 20:45:46,018 - INFO - Read: Rank: 54, Name: Waves
+2024-10-01 20:45:46,111 - INFO - Read: Rank: 55, Name: THORChain
+2024-10-01 20:45:46,187 - INFO - Read: Rank: 56, Name: TrueUSD
+2024-10-01 20:45:46,261 - INFO - Read: Rank: 57, Name: Chiliz
+2024-10-01 20:45:46,340 - INFO - Read: Rank: 58, Name: Compound
+2024-10-01 20:45:46,414 - INFO - Read: Rank: 59, Name: Dash
+2024-10-01 20:45:46,488 - INFO - Read: Rank: 60, Name: Zcash
+2024-10-01 20:45:46,566 - INFO - Read: Rank: 61, Name: Celsius
+2024-10-01 20:45:46,645 - INFO - Read: Rank: 62, Name: Telcoin
+2024-10-01 20:45:46,727 - INFO - Read: Rank: 63, Name: Elrond
+2024-10-01 20:45:46,808 - INFO - Read: Rank: 64, Name: yearn.finance
+2024-10-01 20:45:46,883 - INFO - Read: Rank: 65, Name: Holo
+2024-10-01 20:45:46,970 - INFO - Read: Rank: 66, Name: NEM
+2024-10-01 20:45:47,046 - INFO - Read: Rank: 67, Name: Helium
+2024-10-01 20:45:47,122 - INFO - Read: Rank: 68, Name: Quant
+2024-10-01 20:45:47,197 - INFO - Read: Rank: 69, Name: SushiSwap
+2024-10-01 20:45:47,272 - INFO - Read: Rank: 70, Name: Paxos Standard
+2024-10-01 20:45:47,345 - INFO - Read: Rank: 71, Name: Celo
+2024-10-01 20:45:47,416 - INFO - Read: Rank: 72, Name: XinFin Network
+2024-10-01 20:45:47,500 - INFO - Read: Rank: 73, Name: Enjin Coin
+2024-10-01 20:45:47,585 - INFO - Read: Rank: 74, Name: Zilliqa
+2024-10-01 20:45:47,672 - INFO - Read: Rank: 75, Name: Basic Attention Token
+2024-10-01 20:45:47,769 - INFO - Read: Rank: 76, Name: NEAR Protocol
+2024-10-01 20:45:47,853 - INFO - Read: Rank: 77, Name: Mdex
+2024-10-01 20:45:47,921 - INFO - Read: Rank: 78, Name: Stacks
+2024-10-01 20:45:47,989 - INFO - Read: Rank: 79, Name: Decentraland
+2024-10-01 20:45:48,063 - INFO - Read: Rank: 80, Name: Synthetix
+2024-10-01 20:45:48,134 - INFO - Read: Rank: 81, Name: Bitcoin Gold
+2024-10-01 20:45:48,209 - INFO - Read: Rank: 82, Name: Nexo
+2024-10-01 20:45:48,284 - INFO - Read: Rank: 83, Name: Harmony
+2024-10-01 20:45:48,353 - INFO - Read: Rank: 84, Name: HUSD
+2024-10-01 20:45:48,423 - INFO - Read: Rank: 85, Name: Revain
+2024-10-01 20:45:48,514 - INFO - Read: Rank: 86, Name: Bancor
+2024-10-01 20:45:48,598 - INFO - Read: Rank: 87, Name: Horizen
+2024-10-01 20:45:48,680 - INFO - Read: Rank: 88, Name: Nano
+2024-10-01 20:45:48,758 - INFO - Read: Rank: 89, Name: DigiByte
+2024-10-01 20:45:48,837 - INFO - Read: Rank: 90, Name: Qtum
+2024-10-01 20:45:48,923 - INFO - Read: Rank: 91, Name: OKB
+2024-10-01 20:45:49,001 - INFO - Read: Rank: 92, Name: Curve DAO Token
+2024-10-01 20:45:49,078 - INFO - Read: Rank: 93, Name: KuCoin Token
+2024-10-01 20:45:49,150 - INFO - Read: Rank: 94, Name: Fantom
+2024-10-01 20:45:49,244 - INFO - Read: Rank: 95, Name: Ontology
+2024-10-01 20:45:49,333 - INFO - Read: Rank: 96, Name: Siacoin
+2024-10-01 20:45:49,407 - INFO - Read: Rank: 97, Name: 0x
+2024-10-01 20:45:49,480 - INFO - Read: Rank: 98, Name: OMG Network
+2024-10-01 20:45:49,548 - INFO - Read: Rank: 99, Name: UMA
+2024-10-01 20:45:49,620 - INFO - Read: Rank: 100, Name: BakeryToken
+2024-10-01 20:45:49,708 - INFO - Read: Rank: 101, Name: Voyager Token
+2024-10-01 20:45:49,802 - INFO - Read: Rank: 102, Name: SwissBorg
+2024-10-01 20:45:49,880 - INFO - Read: Rank: 103, Name: Ankr
+2024-10-01 20:45:49,952 - INFO - Read: Rank: 104, Name: Ravencoin
+2024-10-01 20:45:50,026 - INFO - Read: Rank: 105, Name: ICON
+2024-10-01 20:45:50,099 - INFO - Read: Rank: 106, Name: 1inch
+2024-10-01 20:45:50,176 - INFO - Read: Rank: 107, Name: Livepeer
+2024-10-01 20:45:50,252 - INFO - Read: Rank: 108, Name: Neutrino USD
+2024-10-01 20:45:50,339 - INFO - Read: Rank: 109, Name: Bitcoin Diamond
+2024-10-01 20:45:50,418 - INFO - Read: Rank: 110, Name: renBTC
+2024-10-01 20:45:50,496 - INFO - Read: Rank: 111, Name: Flow
+2024-10-01 20:45:50,599 - INFO - Read: Rank: 112, Name: Verge
+2024-10-01 20:45:50,681 - INFO - Read: Rank: 113, Name: Ren
+2024-10-01 20:45:50,755 - INFO - Read: Rank: 114, Name: Arweave
+2024-10-01 20:45:50,844 - INFO - Read: Rank: 115, Name: WazirX
+2024-10-01 20:45:50,945 - INFO - Read: Rank: 116, Name: Loopring
+2024-10-01 20:45:51,015 - INFO - Read: Rank: 117, Name: Nervos Network
+2024-10-01 20:45:51,094 - INFO - Read: Rank: 118, Name: IOST
+2024-10-01 20:45:51,169 - INFO - Read: Rank: 119, Name: MaidSafeCoin
+2024-10-01 20:45:51,242 - INFO - Read: Rank: 120, Name: WINkLink
+2024-10-01 20:45:51,321 - INFO - Read: Rank: 121, Name: Reserve Rights
+2024-10-01 20:45:51,399 - INFO - Read: Rank: 122, Name: Kyber Network Crystal Legacy
+2024-10-01 20:45:51,472 - INFO - Read: Rank: 123, Name: Gnosis
+2024-10-01 20:45:51,542 - INFO - Read: Rank: 124, Name: Lisk
+2024-10-01 20:45:51,612 - INFO - Read: Rank: 125, Name: Ocean Protocol
+2024-10-01 20:45:51,700 - INFO - Read: Rank: 126, Name: Golem
+2024-10-01 20:45:51,777 - INFO - Read: Rank: 127, Name: GateToken
+2024-10-01 20:45:51,861 - INFO - Read: Rank: 128, Name: Kava.io
+2024-10-01 20:45:51,934 - INFO - Read: Rank: 129, Name: Wootrade
+2024-10-01 20:45:52,019 - INFO - Read: Rank: 130, Name: Mina
+2024-10-01 20:45:52,094 - INFO - Read: Rank: 131, Name: iExec RLC
+2024-10-01 20:45:52,167 - INFO - Read: Rank: 132, Name: VeThor Token
+2024-10-01 20:45:52,240 - INFO - Read: Rank: 133, Name: SKALE Network
+2024-10-01 20:45:52,338 - INFO - Read: Rank: 134, Name: Dent
+2024-10-01 20:45:52,419 - INFO - Read: Rank: 135, Name: Conflux Network
+2024-10-01 20:45:52,492 - INFO - Read: Rank: 136, Name: Gemini Dollar
+2024-10-01 20:45:52,568 - INFO - Read: Rank: 137, Name: Origin Protocol
+2024-10-01 20:45:52,640 - INFO - Read: Rank: 138, Name: Reef
+2024-10-01 20:45:52,710 - INFO - Read: Rank: 139, Name: Ergo
+2024-10-01 20:45:52,790 - INFO - Read: Rank: 140, Name: Prometeus
+2024-10-01 20:45:52,870 - INFO - Read: Rank: 141, Name: Venus
+2024-10-01 20:45:52,969 - INFO - Read: Rank: 142, Name: Storj
+2024-10-01 20:45:53,050 - INFO - Read: Rank: 143, Name: Energy Web Token
+2024-10-01 20:45:53,120 - INFO - Read: Rank: 144, Name: Band Protocol
+2024-10-01 20:45:53,192 - INFO - Read: Rank: 145, Name: Cartesi
+2024-10-01 20:45:53,261 - INFO - Read: Rank: 146, Name: Swipe
+2024-10-01 20:45:53,334 - INFO - Read: Rank: 147, Name: Uquid Coin
+2024-10-01 20:45:53,406 - INFO - Read: Rank: 148, Name: MCO
+2024-10-01 20:45:53,475 - INFO - Read: Rank: 149, Name: FUNToken
+2024-10-01 20:45:53,550 - INFO - Read: Rank: 150, Name: Orchid
+2024-10-01 20:45:53,619 - INFO - Read: Rank: 151, Name: Stratis
+2024-10-01 20:45:53,690 - INFO - Read: Rank: 152, Name: LockTrip
+2024-10-01 20:45:53,775 - INFO - Read: Rank: 153, Name: ABBC Coin
+2024-10-01 20:45:53,849 - INFO - Read: Rank: 154, Name: Bitcoin Standard Hashrate Token
+2024-10-01 20:45:53,918 - INFO - Read: Rank: 155, Name: ZKSwap
+2024-10-01 20:45:54,001 - INFO - Read: Rank: 156, Name: WAX
+2024-10-01 20:45:54,075 - INFO - Read: Rank: 157, Name: Status
+2024-10-01 20:45:54,145 - INFO - Read: Rank: 158, Name: NKN
+2024-10-01 20:45:54,214 - INFO - Read: Rank: 159, Name: Ontology Gas
+2024-10-01 20:45:54,293 - INFO - Read: Rank: 160, Name: IoTeX
+2024-10-01 20:45:54,375 - INFO - Read: Rank: 161, Name: NuCypher
+2024-10-01 20:45:54,455 - INFO - Read: Rank: 162, Name: Injective Protocol
+2024-10-01 20:45:54,528 - INFO - Read: Rank: 163, Name: Celer Network
+2024-10-01 20:45:54,601 - INFO - Read: Rank: 164, Name: Unibright
+2024-10-01 20:45:54,680 - INFO - Read: Rank: 165, Name: Fetch.ai
+2024-10-01 20:45:54,755 - INFO - Read: Rank: 166, Name: Serum
+2024-10-01 20:45:54,827 - INFO - Read: Rank: 167, Name: Numeraire
+2024-10-01 20:45:54,916 - INFO - Read: Rank: 168, Name: StormX
+2024-10-01 20:45:54,995 - INFO - Read: Rank: 169, Name: Aragon
+2024-10-01 20:45:55,068 - INFO - Read: Rank: 170, Name: Augur
+2024-10-01 20:45:55,147 - INFO - Read: Rank: 171, Name: Hxro
+2024-10-01 20:45:55,227 - INFO - Read: Rank: 172, Name: ZB Token
+2024-10-01 20:45:55,301 - INFO - Read: Rank: 173, Name: SingularityNET
+2024-10-01 20:45:55,380 - INFO - Read: Rank: 174, Name: The Sandbox
+2024-10-01 20:45:55,468 - INFO - Read: Rank: 175, Name: Ultra
+2024-10-01 20:45:55,536 - INFO - Read: Rank: 176, Name: Civic
+2024-10-01 20:45:55,607 - INFO - Read: Rank: 177, Name: BitShares
+2024-10-01 20:45:55,676 - INFO - Read: Rank: 178, Name: Ampleforth
+2024-10-01 20:45:55,753 - INFO - Read: Rank: 179, Name: Phala Network
+2024-10-01 20:45:55,835 - INFO - Read: Rank: 180, Name: TomoChain
+2024-10-01 20:45:55,910 - INFO - Read: Rank: 181, Name: Enzyme
+2024-10-01 20:45:55,989 - INFO - Read: Rank: 182, Name: Orbs
+2024-10-01 20:45:56,076 - INFO - Read: Rank: 183, Name: Balancer
+2024-10-01 20:45:56,168 - INFO - Read: Rank: 184, Name: RSK Infrastructure Framework
+2024-10-01 20:45:56,266 - INFO - Read: Rank: 185, Name: Strike
+2024-10-01 20:45:56,347 - INFO - Read: Rank: 186, Name: Ardor
+2024-10-01 20:45:56,430 - INFO - Read: Rank: 187, Name: Alpha Finance Lab
+2024-10-01 20:45:56,514 - INFO - Read: Rank: 188, Name: Casper
+2024-10-01 20:45:56,594 - INFO - Read: Rank: 189, Name: Travala.com
+2024-10-01 20:45:56,671 - INFO - Read: Rank: 190, Name: PAX Gold
+2024-10-01 20:45:56,755 - INFO - Read: Rank: 191, Name: Function X
+2024-10-01 20:45:56,840 - INFO - Read: Rank: 192, Name: Streamr
+2024-10-01 20:45:56,919 - INFO - Read: Rank: 193, Name: Wanchain
+2024-10-01 20:45:56,995 - INFO - Read: Rank: 194, Name: JUST
+2024-10-01 20:45:57,075 - INFO - Read: Rank: 195, Name: Steem
+2024-10-01 20:45:57,156 - INFO - Read: Rank: 196, Name: Hive
+2024-10-01 20:45:57,241 - INFO - Read: Rank: 197, Name: Utrust
+2024-10-01 20:45:57,332 - INFO - Read: Rank: 198, Name: DODO
+2024-10-01 20:45:57,418 - INFO - Read: Rank: 199, Name: Velas
+2024-10-01 20:45:57,504 - INFO - Read: Rank: 200, Name: Divi
+2024-10-01 20:45:57,660 - INFO - Clicked 'Load More'
+2024-10-01 20:45:59,707 - INFO - Loading data from row 201 to row 400
+2024-10-01 20:46:00,340 - INFO - Scrolled to row 201
+2024-10-01 20:46:11,436 - INFO - Scrolled to row 400
